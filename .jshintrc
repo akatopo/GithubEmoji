@@ -1,0 +1,12 @@
+{
+  "node": true,
+  "curly": true,
+  "eqeqeq": true,
+  "forin": true,
+  "latedef": true,
+  "undef": true,
+  "strict": true,
+  "browser": true,
+  "devel": true,
+  "latedef": "nofunc"
+}

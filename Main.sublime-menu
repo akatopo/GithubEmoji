@@ -1,0 +1,99 @@
+[
+  {
+    "mnemonic": "n",
+    "caption": "Preferences",
+    "id": "preferences",
+    "children": [
+      {
+        "mnemonic": "P",
+        "caption": "Package Settings",
+        "id": "package-settings",
+        "children": [
+          {
+            "caption": "GithubEmoji",
+            "children": [
+              {
+                "args": {
+                  "file": "${packages}/GithubEmoji/README.md"
+                },
+                "caption": "README",
+                "command": "open_file"
+              },
+              {
+                "caption": "-"
+              },
+              {
+                "caption": "Settings – Default",
+                "args": {
+                  "file": "${packages}/GithubEmoji/GithubEmoji.sublime-settings"
+                },
+                "command": "open_file"
+              },
+              {
+                "caption": "Settings – User",
+                "args": {
+                  "file": "${packages}/User/GithubEmoji.sublime-settings"
+                },
+                "command": "open_file"
+              },
+              {
+                "caption": "-"
+              },
+              {
+                "args": {
+                  "file": "${packages}/GithubEmoji/Default (Windows).sublime-keymap",
+                  "platform": "Windows"
+                },
+                "caption": "Key Bindings – Default",
+                "command": "open_file"
+              },
+              {
+                "args": {
+                  "file": "${packages}/GithubEmoji/Default (OSX).sublime-keymap",
+                  "platform": "OSX"
+                },
+                "caption": "Key Bindings – Default",
+                "command": "open_file"
+              },
+              {
+                "args": {
+                  "file": "${packages}/GithubEmoji/Default (Linux).sublime-keymap",
+                  "platform": "Linux"
+                },
+                "caption": "Key Bindings – Default",
+                "command": "open_file"
+              },
+              {
+                "args": {
+                  "file": "${packages}/User/Default (Windows).sublime-keymap",
+                  "platform": "Windows"
+                },
+                "caption": "Key Bindings – User",
+                "command": "open_file"
+              },
+              {
+                "args": {
+                  "file": "${packages}/User/Default (OSX).sublime-keymap",
+                  "platform": "OSX"
+                },
+                "caption": "Key Bindings – User",
+                "command": "open_file"
+              },
+              {
+                "args": {
+                  "file": "${packages}/User/Default (Linux).sublime-keymap",
+                  "platform": "Linux"
+                },
+                "caption": "Key Bindings – User",
+                "command": "open_file"
+              },
+              {
+                "caption": "-"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

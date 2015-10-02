@@ -1,0 +1,4 @@
+[
+    { "command": "auto_complete"},
+    { "command": "left_delete" }
+]
