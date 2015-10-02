@@ -12,6 +12,8 @@ You can customize the available emoji by copying and editing the default setting
 
 You can check available github emoji at the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
 
+**Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji) 
+
 ## Installation
 
 ### Package Control (preferred)
