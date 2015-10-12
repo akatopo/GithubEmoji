@@ -25,25 +25,25 @@ You can check available github emoji at the [emoji cheat sheet](http://www.emoji
 
 ### Manual Installation
 
-1. Download or clone this repository to a directory `GithubEmoji` in the Sublime Text Packages directory for your platform:
-    * Mac:
+Download or clone this repository to a directory `GithubEmoji` in the Sublime Text Packages directory for your platform:
 
-    ```shell
-    git clone https://github.com/akatopo/GithubEmoji.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/GithubEmoji
-    ```
+**Mac:**
 
-    * Windows: 
+```shell
+git clone https://github.com/akatopo/GithubEmoji.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/GithubEmoji
+```
 
-    ```shell
-    git clone https://github.com/akatopo/GithubEmoji.git %APPDATA%\Sublime/ Text/ 3/\GithubEmoji
-    ```
+**Windows:** 
+
+```shell
+git clone https://github.com/akatopo/GithubEmoji.git %APPDATA%\Sublime/ Text/ 3/\GithubEmoji
+```
     
-    * Linux: 
+**Linux:** 
     
-    ```shell
-    git clone https://github.com/akatopo/GithubEmoji.git ~/.Sublime\ Text\ 3/Packages/GithubEmoji
-    ```
-
+```shell
+git clone https://github.com/akatopo/GithubEmoji.git ~/.Sublime\ Text\ 3/Packages/GithubEmoji
+```
 
 ## Known Issues
 
