@@ -8,11 +8,11 @@ A Sublime Text 3 plugin for inserting github emoji in markdown documents. Also s
 
 When editing a markdown document type `:` and then press <kbd>TAB</kbd> to display the auto-complete popup for github emoji. You can type `@` instead of `:` for commit message emoji.
 
-You can customize the available emoji by copying and editing the default settings (`Preferences > Package Settings > GithubEmoji > Settings – Default`) and saving them into your own user settings (`Preferences > Package Settings > GithubEmoji > Settings – User`)
+You can customize the available emoji, file extensions, and filenames by copying and editing the default settings (`Preferences > Package Settings > GithubEmoji > Settings – Default`) and saving them into your own user settings (`Preferences > Package Settings > GithubEmoji > Settings – User`)
 
 You can check available github emoji at the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
 
-**Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji) 
+**Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji)
 
 ## Installation
 
@@ -33,14 +33,14 @@ Download or clone this repository to a directory `GithubEmoji` in the Sublime Te
 git clone https://github.com/akatopo/GithubEmoji.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/GithubEmoji
 ```
 
-**Windows:** 
+**Windows:**
 
 ```shell
 git clone https://github.com/akatopo/GithubEmoji.git %APPDATA%\Sublime/ Text/ 3/\GithubEmoji
 ```
-    
-**Linux:** 
-    
+
+**Linux:**
+
 ```shell
 git clone https://github.com/akatopo/GithubEmoji.git ~/.Sublime\ Text\ 3/Packages/GithubEmoji
 ```
