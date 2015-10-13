@@ -877,5 +877,12 @@
     [":sparkles: ✨\tnew feature", ":sparkles:"],
     [":tada: 🎉\tinitial commit", ":tada:"],
     [":zap: ⚡\tgeneral update", ":zap:"]
+  ],
+  "emojiFileExtensions": [
+    ".md",
+    ".markdown"
+  ],
+  "emojiFileNames": [
+    "COMMIT_EDITMSG"
   ]
 }
