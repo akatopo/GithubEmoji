@@ -8,9 +8,10 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
     """
 
     def on_query_completions(self, view, prefix, locations):
-        # Only trigger for valid file names
-        if not is_valid_file_name(view.file_name()):
-            return []
+        # Only trigger for valid file names and scopes
+        if not is_valid_file_name(view.file_name()) and \
+            not is_valid_scope(view, locations[0]):
+                return []
 
         pt = locations[0] - len(prefix) - 1
         ch = view.substr(sublime.Region(pt, pt + 1))
@@ -28,15 +29,21 @@ class GithubEmojiAutoCompleteCommand(sublime_plugin.TextCommand):
         self.view.run_command("auto_complete")
         self.view.run_command("left_delete")
     def is_enabled(self):
-        return is_valid_file_name(self.view.file_name())
+        return is_valid_file_name(self.view.file_name()) or \
+            is_valid_scope(self.view, self.view.sel()[0].begin())
 
 def is_valid_file_name(file_name):
     if file_name is None:
         return False
     tail = os.path.split(file_name)[1]
-    ext = os.path.splitext(tail)[1]
-    return (ext in settings.get("emojiFileExtensions") or
-        tail in settings.get("emojiFileNames"))
+
+    return tail in settings.get("emojiFileNames")
+
+def is_valid_scope(view, point):
+    for scope in settings.get("emojiScopes"):
+        if view.match_selector(point, scope):
+            return True;
+    return False
 
 def plugin_loaded():
     global settings

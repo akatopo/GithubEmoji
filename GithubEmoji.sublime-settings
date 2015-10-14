@@ -878,9 +878,8 @@
     [":tada: 🎉\tinitial commit", ":tada:"],
     [":zap: ⚡\tgeneral update", ":zap:"]
   ],
-  "emojiFileExtensions": [
-    ".md",
-    ".markdown"
+  "emojiScopes": [
+    "text.html.markdown"
   ],
   "emojiFileNames": [
     "COMMIT_EDITMSG"
