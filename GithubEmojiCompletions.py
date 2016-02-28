@@ -29,9 +29,10 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
 
 
 class GithubEmojiAutoCompleteCommand(sublime_plugin.TextCommand):
-    def run(self, edit):
+    def run(self, edit, isCommitEmoji=False):
         self.view.run_command("auto_complete")
-        self.view.run_command("left_delete")
+        if isCommitEmoji:
+            self.view.run_command("left_delete")
 
     def is_enabled(self):
         return is_valid_file_name(self.view.file_name()) or \
