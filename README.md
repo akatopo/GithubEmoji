@@ -8,7 +8,7 @@ A Sublime Text 3 plugin for inserting github emoji in markdown documents. Also s
 
 When editing a markdown document type `:` and then press <kbd>TAB</kbd> to display the auto-complete popup for github emoji. You can type `@` instead of `:` for commit message emoji.
 
-Alternatively, for commit emoji, you can add this to your `auto_complete_triggers` in the user preferences:
+Alternatively, for non-commit emoji, you can add this to your `auto_complete_triggers` in the user preferences:
 
 ```js
 "auto_complete_triggers": [
