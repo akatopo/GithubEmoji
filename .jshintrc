@@ -8,5 +8,6 @@
   "strict": true,
   "browser": true,
   "devel": true,
-  "latedef": "nofunc"
+  "latedef": "nofunc",
+  "esversion": 6
 }

@@ -1,29 +1,34 @@
 'use strict';
 
 // emoji.json provided by gemoji (https://github.com/github/gemoji)
-var emojiInfo = require('./emoji.json');
-var completions = new Array(emojiInfo.length);
+const emojiInfo = require('./emoji.json');
 
-emojiInfo.forEach(function (emoji, emojiIndex) {
-  emoji.aliases.forEach(function (alias, aliasIndex) {
-    var tabTrigger;
-    var content;
-    var description;
-
-    content = append(':', prepend(':', stringOrEmpty(alias)));
-    tabTrigger = content + prepend(' ', stringOrEmpty(emoji.emoji));
-    description = stringOrEmpty(emoji.description);
-
-    completions[emojiIndex + aliasIndex] = [
-      tabTrigger + prepend('\t', stringOrEmpty(description)),
-      content
-    ];
-  });
-});
-
-console.log(JSON.stringify(completions, undefined, 2));
+module.exports = {
+  getSublimeCompletions,
+};
 
 /////////////////////////////////////////////////////////////
+
+
+function getSublimeCompletions() {
+  const completions = [];
+
+  emojiInfo.forEach(function (emoji, emojiIndex) {
+    emoji.aliases.forEach(function (alias, aliasIndex) {
+      // don't prepend ':' (issue #2)
+      const content = append(':', stringOrEmpty(alias));
+      const tabTrigger = prepend(':', content) + prepend(' ', stringOrEmpty(emoji.emoji));
+      const description = stringOrEmpty(emoji.description);
+
+      completions.push([
+        tabTrigger + prepend('\t', stringOrEmpty(description)),
+        content
+      ]);
+    });
+  });
+
+  return completions;
+}
 
 function stringOrEmpty(s) {
   return s ? s.toString() : '';
