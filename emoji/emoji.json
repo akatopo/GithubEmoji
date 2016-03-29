@@ -354,6 +354,7 @@
   , "description": "pouting face"
   , "aliases": [
       "rage"
+    , "pout"
     ]
   , "tags": [
       "angry"
@@ -1381,6 +1382,7 @@
   , "description": "face with no good gesture"
   , "aliases": [
       "no_good"
+    , "ng_woman"
     ]
   , "tags": [
       "stop"
@@ -5123,6 +5125,8 @@
   , "description": "tangerine"
   , "aliases": [
       "tangerine"
+    , "orange"
+    , "mandarin"
     ]
   , "tags": [
     ]

@@ -69,7 +69,7 @@ Please drop me a line for any other OS specific strangeness or workarounds.
 
 ## Credits
 
-The list of github emoji ([emoji.json](https://github.com/github/gemoji/blob/3db7811891655d6a50809a32306d552662294c44/db/emoji.json)) is taken from [gemoji](https://github.com/github/gemoji).
+The list of github emoji ([emoji.json](https://github.com/github/gemoji/blob/50865e8895c54037bf06c4c1691aa925d030a59d/db/emoji.json)) is taken from [gemoji](https://github.com/github/gemoji).
 
 Installation instructions ripped from [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditing)'s readme.
 
