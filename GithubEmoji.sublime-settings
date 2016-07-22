@@ -901,11 +901,14 @@
     [":books: 📚\tdocumentation", ":books:"],
     [":bug: 🐛\tbug", ":bug:"],
     [":card_index: 📇\tmetadata", ":card_index:"],
+    [":construction: 🚧\tWIP", ":construction:"],
     [":lipstick: 💄\tcosmetic", ":lipstick:"],
+    [":poop: 💩\tdeprecation", ":poop:"],
     [":racehorse: 🐎\tperformance", ":racehorse:"],
     [":rotating_light: 🚨\ttests", ":rotating_light:"],
     [":sparkles: ✨\tnew feature", ":sparkles:"],
     [":tada: 🎉\tinitial commit", ":tada:"],
+    [":wrench: 🔧\ttooling", ":wrench:"],
     [":zap: ⚡\tgeneral update", ":zap:"]
   ],
   "emojiScopes": [
