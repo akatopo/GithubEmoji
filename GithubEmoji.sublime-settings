@@ -912,7 +912,8 @@
     [":zap: ⚡\tgeneral update", ":zap:"]
   ],
   "emojiScopes": [
-    "text.html.markdown"
+    "text.html.markdown",
+    "text.git-commit"
   ],
   "emojiFileNames": [
     "COMMIT_EDITMSG"
