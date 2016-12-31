@@ -27,7 +27,7 @@ You can customize the available emoji, scopes, and filenames by copying and edit
 
 You can check available github emoji at the [emoji cheat sheet](http://www.emoji-cheat-sheet.com/)
 
-**Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji)
+**Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji).
 
 ## Installation
 
@@ -75,4 +75,5 @@ Installation instructions ripped from [MarkdownEditing](https://github.com/Subli
 
 ## Similar Plugins
 
-The [Emoji](https://github.com/ethanal/SublimeEmoji/) plugin allows you to insert emoji characters from the command palette.
+* The [Emoji](https://github.com/ethanal/SublimeEmoji/) plugin allows you to insert emoji characters from the command palette.
+* The [Emoji](https://emojikeyboard.org) web application allows you search for emojis by keywords and click on an emoji to copy it to the clipboard.
