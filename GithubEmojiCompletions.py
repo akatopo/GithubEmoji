@@ -1,9 +1,11 @@
 import sublime
 import sublime_plugin
 import os
+import sys
+import json
 
 settings = None
-
+emojis = None
 
 class GithubEmojiCompletions(sublime_plugin.EventListener):
     """
@@ -21,6 +23,7 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
 
         # emoji completions
         if ch == ':':
+            return emojis
             return settings.get("emojiCompletions")
         # emoji completions for commit messages
         if ch == '@':
@@ -55,5 +58,6 @@ def is_valid_scope(view, point):
 
 
 def plugin_loaded():
-    global settings
+    global settings, emojis
     settings = sublime.load_settings("GithubEmoji.sublime-settings")
+    emojis = sublime.decode_value(sublime.load_resource('Packages/GithubEmoji/emoji.json'))
