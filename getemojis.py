@@ -2,14 +2,20 @@
 # CSW: ignore
 
 """
-For updating the json list. It cannot be run by the final user
+For updating the json list. It cannot be run by the final user.
+
+To run, you can just built it, but you need to have python installed on your system.
+
+What you can also to is run it from sublime text iteslf. Just paste this in the console:
+
+from GithubEmoji.getemojis import getemojis; getemojis()
 """
 
 import json
 import sys
 import urllib.request
 
-def main():
+def getemojis():
     valid = []
     print('loading from internet...', end=' ', flush=True)
     page = urllib.request.urlopen('https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json')
@@ -25,4 +31,4 @@ def main():
     print('Done!')
 
 if __name__ == '__main__':
-    main()
+    getemojis()
