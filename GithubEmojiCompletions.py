@@ -22,12 +22,13 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
         ch = view.substr(sublime.Region(pt, pt + 1))
 
         complete_with_emoji = view.settings().get('github_emoji_complete_with_emoji') is True
-        if complete_with_emoji:
-            return emojis_emoji
+
         # emoji completions
         if ch == ':':
-
-            return emojis_alias
+            if complete_with_emoji:
+                return emojis_emoji
+            else:
+                return emojis_alias
         # emoji completions for commit messages
         if ch == '@':
             return settings.get("commitEmojiCompletions")
