@@ -39,13 +39,14 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
             or view.settings().get('github_emoji_complete_with_emoji') is not True:
             return
 
+
         # the second condition is used to check whether it's a buggy emoji which
         # is printed as more than one character
 
         actual_emojis = list(map(lambda emo: emo[1], emojis))
         for region in view.sel():
             if view.substr(region.begin() - 1) not in actual_emojis \
-                or view.substr(region.begin() - 2) in ':@':
+                or view.substr(region.begin() - 2) not in ':@':
                 return
 
         view.run_command('move', {'forward': False, 'by': 'characters'})
