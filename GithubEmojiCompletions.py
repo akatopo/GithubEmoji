@@ -5,7 +5,6 @@ import sys
 import json
 
 settings = None
-commit_emojis = None
 emojis_emoji = emojis_alias = None
 
 class GithubEmojiCompletions(sublime_plugin.EventListener):
@@ -81,9 +80,5 @@ def plugin_loaded():
     global settings, emojis_alias, emojis_emoji, emojis
     settings = sublime.load_settings("GithubEmoji.sublime-settings")
     emojis = sublime.decode_value(sublime.load_resource('Packages/GithubEmoji/emoji.json'))
-    emojis_alias = []
-    emojis_emoji = []
-    for emo in emojis:
-        emojis_alias.append([":{}: {}\t{}".format(*emo), emo[0] + ':'])
-    for emo in emojis:
-        emojis_emoji.append([":{}: {}\t{}".format(*emo), emo[1]])
+    emojis_alias = list(map(lambda emo: [":{}: {}\t{}".format(*emo), emo[0] + ':'], emojis))
+    emojis_emoji = list(map(lambda emo: [":{}: {}\t{}".format(*emo), emo[1]], emojis))
