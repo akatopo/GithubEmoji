@@ -35,7 +35,8 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
         return []
 
     def on_post_text_command(self, view, cmd, args):
-        if cmd != 'commit_completion':
+        if cmd != 'commit_completion' \
+            or view.settings().get('github_emoji_complete_with_emoji') is not True:
             return
 
         # the second condition is used to check whether it's a buggy emoji which
