@@ -5,7 +5,7 @@ import sys
 import json
 
 settings = None
-emojis_emoji = emojis_alias = None
+emojis_emoji = emojis_alias = commit_emojis_emoji = commit_emojis_alias = None
 
 class GithubEmojiCompletions(sublime_plugin.EventListener):
     """
@@ -31,14 +31,20 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
                 return emojis_alias
         # emoji completions for commit messages
         if ch == '@':
-            return settings.get("commitEmojiCompletions")
+            if complete_with_emoji:
+                return list(filter(lambda emo: emo[0].startswith(tuple(settings.get('commitEmojis')), 1),
+                              emojis_emoji))
+            else:
+                return list(filter(lambda emo: emo[1].rstrip(':') in settings.get('commitEmojis'),
+                              emojis_alias))
+
         return []
 
     def on_post_text_command(self, view, cmd, args):
+        return
         if cmd != 'commit_completion' \
             or view.settings().get('github_emoji_complete_with_emoji') is not True:
             return
-
 
         # the second condition is used to check whether it's a buggy emoji which
         # is printed as more than one character
