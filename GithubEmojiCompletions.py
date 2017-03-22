@@ -33,15 +33,14 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
         if ch == '@':
             if complete_with_emoji:
                 return list(filter(lambda emo: emo[0].startswith(tuple(settings.get('commitEmojis')), 1),
-                              emojis_emoji))
+                              commit_emojis_emoji))
             else:
-                return list(filter(lambda emo: emo[1].rstrip(':') in settings.get('commitEmojis'),
-                              emojis_alias))
+                return list(filter(lambda emo: emo[1].strip(':') in settings.get('commitEmojis'),
+                              commit_emojis_alias))
 
         return []
 
     def on_post_text_command(self, view, cmd, args):
-        return
         if cmd != 'commit_completion' \
             or view.settings().get('github_emoji_complete_with_emoji') is not True:
             return
@@ -86,8 +85,18 @@ def is_valid_scope(view, point):
 
 
 def plugin_loaded():
-    global settings, emojis_alias, emojis_emoji, emojis
+    global settings, emojis_alias, emojis_emoji, emojis, commit_emojis_alias, commit_emojis_emoji
     settings = sublime.load_settings("GithubEmoji.sublime-settings")
     emojis = sublime.decode_value(sublime.load_resource('Packages/GithubEmoji/emoji.json'))
     emojis_alias = list(map(lambda emo: [":{}: {}\t{}".format(*emo), emo[0] + ':'], emojis))
     emojis_emoji = list(map(lambda emo: [":{}: {}\t{}".format(*emo), emo[1]], emojis))
+
+    commit_emojis = sublime.decode_value(
+                        sublime.load_resource('Packages/GithubEmoji/commit-emoji.json'))
+    commit_emojis_alias = []
+    commit_emojis_emoji = []
+    for emo in commit_emojis:
+        commit_emojis_alias.append([":{}: {}\t{}".format(*emo), ":{}:".format(emo[0])])
+        commit_emojis_alias.append([":{}: {}\t{}".format(*reversed(emo)), ":{}:".format(emo[0])])
+        commit_emojis_emoji.append([":{}: {}\t{}".format(*emo), emo[1]])
+        commit_emojis_emoji.append([":{}: {}\t{}".format(*reversed(emo)), emo[1]])
