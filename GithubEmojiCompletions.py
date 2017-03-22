@@ -32,11 +32,9 @@ class GithubEmojiCompletions(sublime_plugin.EventListener):
         # emoji completions for commit messages
         if ch == '@':
             if complete_with_emoji:
-                return list(filter(lambda emo: emo[0].startswith(tuple(settings.get('commitEmojis')), 1),
-                              commit_emojis_emoji))
+                return commit_emojis_emoji
             else:
-                return list(filter(lambda emo: emo[1].strip(':') in settings.get('commitEmojis'),
-                              commit_emojis_alias))
+                return commit_emojis_alias
 
         return []
 

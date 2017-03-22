@@ -1,9 +1,4 @@
 {
-    "commitEmojis": [
-        "bookmark", "books", "bug", "card_index", "construction", "globe_with_meridians",
-        "lipstick", "poop", "racehorse", "package", "rotating_light", "sparkles", "tada", "wrench",
-        "zap"
-    ],
     "emojiScopes": [
         "text.html.markdown",
         "text.git-commit"
