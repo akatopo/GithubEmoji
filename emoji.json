@@ -1,0 +1,7532 @@
+[
+  [
+    "grinning",
+    "😀",
+    "grinning face"
+  ],
+  [
+    "smiley",
+    "😃",
+    "smiling face with open mouth"
+  ],
+  [
+    "smile",
+    "😄",
+    "smiling face with open mouth & smiling eyes"
+  ],
+  [
+    "grin",
+    "😁",
+    "grinning face with smiling eyes"
+  ],
+  [
+    "laughing",
+    "😆",
+    "smiling face with open mouth & closed eyes"
+  ],
+  [
+    "satisfied",
+    "😆",
+    "smiling face with open mouth & closed eyes"
+  ],
+  [
+    "sweat_smile",
+    "😅",
+    "smiling face with open mouth & cold sweat"
+  ],
+  [
+    "joy",
+    "😂",
+    "face with tears of joy"
+  ],
+  [
+    "rofl",
+    "🤣",
+    "rolling on the floor laughing"
+  ],
+  [
+    "relaxed",
+    "☺️",
+    "smiling face"
+  ],
+  [
+    "blush",
+    "😊",
+    "smiling face with smiling eyes"
+  ],
+  [
+    "innocent",
+    "😇",
+    "smiling face with halo"
+  ],
+  [
+    "slightly_smiling_face",
+    "🙂",
+    "slightly smiling face"
+  ],
+  [
+    "upside_down_face",
+    "🙃",
+    "upside-down face"
+  ],
+  [
+    "wink",
+    "😉",
+    "winking face"
+  ],
+  [
+    "relieved",
+    "😌",
+    "relieved face"
+  ],
+  [
+    "heart_eyes",
+    "😍",
+    "smiling face with heart-eyes"
+  ],
+  [
+    "kissing_heart",
+    "😘",
+    "face blowing a kiss"
+  ],
+  [
+    "kissing",
+    "😗",
+    "kissing face"
+  ],
+  [
+    "kissing_smiling_eyes",
+    "😙",
+    "kissing face with smiling eyes"
+  ],
+  [
+    "kissing_closed_eyes",
+    "😚",
+    "kissing face with closed eyes"
+  ],
+  [
+    "yum",
+    "😋",
+    "face savouring delicious food"
+  ],
+  [
+    "stuck_out_tongue_winking_eye",
+    "😜",
+    "face with stuck-out tongue & winking eye"
+  ],
+  [
+    "stuck_out_tongue_closed_eyes",
+    "😝",
+    "face with stuck-out tongue & closed eyes"
+  ],
+  [
+    "stuck_out_tongue",
+    "😛",
+    "face with stuck-out tongue"
+  ],
+  [
+    "money_mouth_face",
+    "🤑",
+    "money-mouth face"
+  ],
+  [
+    "hugs",
+    "🤗",
+    "hugging face"
+  ],
+  [
+    "nerd_face",
+    "🤓",
+    "nerd face"
+  ],
+  [
+    "sunglasses",
+    "😎",
+    "smiling face with sunglasses"
+  ],
+  [
+    "clown_face",
+    "🤡",
+    "clown face"
+  ],
+  [
+    "cowboy_hat_face",
+    "🤠",
+    "cowboy hat face"
+  ],
+  [
+    "smirk",
+    "😏",
+    "smirking face"
+  ],
+  [
+    "unamused",
+    "😒",
+    "unamused face"
+  ],
+  [
+    "disappointed",
+    "😞",
+    "disappointed face"
+  ],
+  [
+    "pensive",
+    "😔",
+    "pensive face"
+  ],
+  [
+    "worried",
+    "😟",
+    "worried face"
+  ],
+  [
+    "confused",
+    "😕",
+    "confused face"
+  ],
+  [
+    "slightly_frowning_face",
+    "🙁",
+    "slightly frowning face"
+  ],
+  [
+    "frowning_face",
+    "☹️",
+    "frowning face"
+  ],
+  [
+    "persevere",
+    "😣",
+    "persevering face"
+  ],
+  [
+    "confounded",
+    "😖",
+    "confounded face"
+  ],
+  [
+    "tired_face",
+    "😫",
+    "tired face"
+  ],
+  [
+    "weary",
+    "😩",
+    "weary face"
+  ],
+  [
+    "triumph",
+    "😤",
+    "face with steam from nose"
+  ],
+  [
+    "angry",
+    "😠",
+    "angry face"
+  ],
+  [
+    "rage",
+    "😡",
+    "pouting face"
+  ],
+  [
+    "pout",
+    "😡",
+    "pouting face"
+  ],
+  [
+    "no_mouth",
+    "😶",
+    "face without mouth"
+  ],
+  [
+    "neutral_face",
+    "😐",
+    "neutral face"
+  ],
+  [
+    "expressionless",
+    "😑",
+    "expressionless face"
+  ],
+  [
+    "hushed",
+    "😯",
+    "hushed face"
+  ],
+  [
+    "frowning",
+    "😦",
+    "frowning face with open mouth"
+  ],
+  [
+    "anguished",
+    "😧",
+    "anguished face"
+  ],
+  [
+    "open_mouth",
+    "😮",
+    "face with open mouth"
+  ],
+  [
+    "astonished",
+    "😲",
+    "astonished face"
+  ],
+  [
+    "dizzy_face",
+    "😵",
+    "dizzy face"
+  ],
+  [
+    "flushed",
+    "😳",
+    "flushed face"
+  ],
+  [
+    "scream",
+    "😱",
+    "face screaming in fear"
+  ],
+  [
+    "fearful",
+    "😨",
+    "fearful face"
+  ],
+  [
+    "cold_sweat",
+    "😰",
+    "face with open mouth & cold sweat"
+  ],
+  [
+    "cry",
+    "😢",
+    "crying face"
+  ],
+  [
+    "disappointed_relieved",
+    "😥",
+    "disappointed but relieved face"
+  ],
+  [
+    "drooling_face",
+    "🤤",
+    "drooling face"
+  ],
+  [
+    "sob",
+    "😭",
+    "loudly crying face"
+  ],
+  [
+    "sweat",
+    "😓",
+    "face with cold sweat"
+  ],
+  [
+    "sleepy",
+    "😪",
+    "sleepy face"
+  ],
+  [
+    "sleeping",
+    "😴",
+    "sleeping face"
+  ],
+  [
+    "roll_eyes",
+    "🙄",
+    "face with rolling eyes"
+  ],
+  [
+    "thinking",
+    "🤔",
+    "thinking face"
+  ],
+  [
+    "lying_face",
+    "🤥",
+    "lying face"
+  ],
+  [
+    "grimacing",
+    "😬",
+    "grimacing face"
+  ],
+  [
+    "zipper_mouth_face",
+    "🤐",
+    "zipper-mouth face"
+  ],
+  [
+    "nauseated_face",
+    "🤢",
+    "nauseated face"
+  ],
+  [
+    "sneezing_face",
+    "🤧",
+    "sneezing face"
+  ],
+  [
+    "mask",
+    "😷",
+    "face with medical mask"
+  ],
+  [
+    "face_with_thermometer",
+    "🤒",
+    "face with thermometer"
+  ],
+  [
+    "face_with_head_bandage",
+    "🤕",
+    "face with head-bandage"
+  ],
+  [
+    "smiling_imp",
+    "😈",
+    "smiling face with horns"
+  ],
+  [
+    "imp",
+    "👿",
+    "angry face with horns"
+  ],
+  [
+    "japanese_ogre",
+    "👹",
+    "ogre"
+  ],
+  [
+    "japanese_goblin",
+    "👺",
+    "goblin"
+  ],
+  [
+    "hankey",
+    "💩",
+    "pile of poo"
+  ],
+  [
+    "poop",
+    "💩",
+    "pile of poo"
+  ],
+  [
+    "shit",
+    "💩",
+    "pile of poo"
+  ],
+  [
+    "ghost",
+    "👻",
+    "ghost"
+  ],
+  [
+    "skull",
+    "💀",
+    "skull"
+  ],
+  [
+    "skull_and_crossbones",
+    "☠️",
+    "skull and crossbones"
+  ],
+  [
+    "alien",
+    "👽",
+    "alien"
+  ],
+  [
+    "space_invader",
+    "👾",
+    "alien monster"
+  ],
+  [
+    "robot",
+    "🤖",
+    "robot face"
+  ],
+  [
+    "jack_o_lantern",
+    "🎃",
+    "jack-o-lantern"
+  ],
+  [
+    "smiley_cat",
+    "😺",
+    "smiling cat face with open mouth"
+  ],
+  [
+    "smile_cat",
+    "😸",
+    "grinning cat face with smiling eyes"
+  ],
+  [
+    "joy_cat",
+    "😹",
+    "cat face with tears of joy"
+  ],
+  [
+    "heart_eyes_cat",
+    "😻",
+    "smiling cat face with heart-eyes"
+  ],
+  [
+    "smirk_cat",
+    "😼",
+    "cat face with wry smile"
+  ],
+  [
+    "kissing_cat",
+    "😽",
+    "kissing cat face with closed eyes"
+  ],
+  [
+    "scream_cat",
+    "🙀",
+    "weary cat face"
+  ],
+  [
+    "crying_cat_face",
+    "😿",
+    "crying cat face"
+  ],
+  [
+    "pouting_cat",
+    "😾",
+    "pouting cat face"
+  ],
+  [
+    "open_hands",
+    "👐",
+    "open hands"
+  ],
+  [
+    "raised_hands",
+    "🙌",
+    "raising hands"
+  ],
+  [
+    "clap",
+    "👏",
+    "clapping hands"
+  ],
+  [
+    "pray",
+    "🙏",
+    "folded hands"
+  ],
+  [
+    "handshake",
+    "🤝",
+    "handshake"
+  ],
+  [
+    "+1",
+    "👍",
+    "thumbs up"
+  ],
+  [
+    "thumbsup",
+    "👍",
+    "thumbs up"
+  ],
+  [
+    "-1",
+    "👎",
+    "thumbs down"
+  ],
+  [
+    "thumbsdown",
+    "👎",
+    "thumbs down"
+  ],
+  [
+    "fist_oncoming",
+    "👊",
+    "oncoming fist"
+  ],
+  [
+    "facepunch",
+    "👊",
+    "oncoming fist"
+  ],
+  [
+    "punch",
+    "👊",
+    "oncoming fist"
+  ],
+  [
+    "fist_raised",
+    "✊",
+    "raised fist"
+  ],
+  [
+    "fist",
+    "✊",
+    "raised fist"
+  ],
+  [
+    "fist_left",
+    "🤛",
+    "left-facing fist"
+  ],
+  [
+    "fist_right",
+    "🤜",
+    "right-facing fist"
+  ],
+  [
+    "crossed_fingers",
+    "🤞",
+    "crossed fingers"
+  ],
+  [
+    "v",
+    "✌️",
+    "victory hand"
+  ],
+  [
+    "metal",
+    "🤘",
+    "sign of the horns"
+  ],
+  [
+    "ok_hand",
+    "👌",
+    "OK hand"
+  ],
+  [
+    "point_left",
+    "👈",
+    "backhand index pointing left"
+  ],
+  [
+    "point_right",
+    "👉",
+    "backhand index pointing right"
+  ],
+  [
+    "point_up_2",
+    "👆",
+    "backhand index pointing up"
+  ],
+  [
+    "point_down",
+    "👇",
+    "backhand index pointing down"
+  ],
+  [
+    "point_up",
+    "☝️",
+    "index pointing up"
+  ],
+  [
+    "hand",
+    "✋",
+    "raised hand"
+  ],
+  [
+    "raised_hand",
+    "✋",
+    "raised hand"
+  ],
+  [
+    "raised_back_of_hand",
+    "🤚",
+    "raised back of hand"
+  ],
+  [
+    "raised_hand_with_fingers_splayed",
+    "🖐",
+    "raised hand with fingers splayed"
+  ],
+  [
+    "vulcan_salute",
+    "🖖",
+    "vulcan salute"
+  ],
+  [
+    "wave",
+    "👋",
+    "waving hand"
+  ],
+  [
+    "call_me_hand",
+    "🤙",
+    "call me hand"
+  ],
+  [
+    "muscle",
+    "💪",
+    "flexed biceps"
+  ],
+  [
+    "middle_finger",
+    "🖕",
+    "middle finger"
+  ],
+  [
+    "fu",
+    "🖕",
+    "middle finger"
+  ],
+  [
+    "writing_hand",
+    "✍️",
+    "writing hand"
+  ],
+  [
+    "selfie",
+    "🤳",
+    "selfie"
+  ],
+  [
+    "nail_care",
+    "💅",
+    "nail polish"
+  ],
+  [
+    "ring",
+    "💍",
+    "ring"
+  ],
+  [
+    "lipstick",
+    "💄",
+    "lipstick"
+  ],
+  [
+    "kiss",
+    "💋",
+    "kiss mark"
+  ],
+  [
+    "lips",
+    "👄",
+    "mouth"
+  ],
+  [
+    "tongue",
+    "👅",
+    "tongue"
+  ],
+  [
+    "ear",
+    "👂",
+    "ear"
+  ],
+  [
+    "nose",
+    "👃",
+    "nose"
+  ],
+  [
+    "footprints",
+    "👣",
+    "footprints"
+  ],
+  [
+    "eye",
+    "👁",
+    "eye"
+  ],
+  [
+    "eyes",
+    "👀",
+    "eyes"
+  ],
+  [
+    "speaking_head",
+    "🗣",
+    "speaking head"
+  ],
+  [
+    "bust_in_silhouette",
+    "👤",
+    "bust in silhouette"
+  ],
+  [
+    "busts_in_silhouette",
+    "👥",
+    "busts in silhouette"
+  ],
+  [
+    "baby",
+    "👶",
+    "baby"
+  ],
+  [
+    "boy",
+    "👦",
+    "boy"
+  ],
+  [
+    "girl",
+    "👧",
+    "girl"
+  ],
+  [
+    "man",
+    "👨",
+    "man"
+  ],
+  [
+    "woman",
+    "👩",
+    "woman"
+  ],
+  [
+    "blonde_woman",
+    "👱‍♀️",
+    "blond-haired woman"
+  ],
+  [
+    "blonde_man",
+    "👱",
+    "blond-haired person"
+  ],
+  [
+    "person_with_blond_hair",
+    "👱",
+    "blond-haired person"
+  ],
+  [
+    "older_man",
+    "👴",
+    "old man"
+  ],
+  [
+    "older_woman",
+    "👵",
+    "old woman"
+  ],
+  [
+    "man_with_gua_pi_mao",
+    "👲",
+    "man with Chinese cap"
+  ],
+  [
+    "woman_with_turban",
+    "👳‍♀️",
+    "woman wearing turban"
+  ],
+  [
+    "man_with_turban",
+    "👳",
+    "person wearing turban"
+  ],
+  [
+    "policewoman",
+    "👮‍♀️",
+    "woman police officer"
+  ],
+  [
+    "policeman",
+    "👮",
+    "police officer"
+  ],
+  [
+    "cop",
+    "👮",
+    "police officer"
+  ],
+  [
+    "construction_worker_woman",
+    "👷‍♀️",
+    "woman construction worker"
+  ],
+  [
+    "construction_worker_man",
+    "👷",
+    "construction worker"
+  ],
+  [
+    "construction_worker",
+    "👷",
+    "construction worker"
+  ],
+  [
+    "guardswoman",
+    "💂‍♀️",
+    "woman guard"
+  ],
+  [
+    "guardsman",
+    "💂",
+    "guard"
+  ],
+  [
+    "female_detective",
+    "🕵️‍♀️",
+    "woman detective"
+  ],
+  [
+    "male_detective",
+    "🕵️",
+    "detective"
+  ],
+  [
+    "detective",
+    "🕵️",
+    "detective"
+  ],
+  [
+    "woman_health_worker",
+    "👩‍⚕️",
+    "woman health worker"
+  ],
+  [
+    "man_health_worker",
+    "👨‍⚕️",
+    "man health worker"
+  ],
+  [
+    "woman_farmer",
+    "👩‍🌾",
+    "woman farmer"
+  ],
+  [
+    "man_farmer",
+    "👨‍🌾",
+    "man farmer"
+  ],
+  [
+    "woman_cook",
+    "👩‍🍳",
+    "woman cook"
+  ],
+  [
+    "man_cook",
+    "👨‍🍳",
+    "man cook"
+  ],
+  [
+    "woman_student",
+    "👩‍🎓",
+    "woman student"
+  ],
+  [
+    "man_student",
+    "👨‍🎓",
+    "man student"
+  ],
+  [
+    "woman_singer",
+    "👩‍🎤",
+    "woman singer"
+  ],
+  [
+    "man_singer",
+    "👨‍🎤",
+    "man singer"
+  ],
+  [
+    "woman_teacher",
+    "👩‍🏫",
+    "woman teacher"
+  ],
+  [
+    "man_teacher",
+    "👨‍🏫",
+    "man teacher"
+  ],
+  [
+    "woman_factory_worker",
+    "👩‍🏭",
+    "woman factory worker"
+  ],
+  [
+    "man_factory_worker",
+    "👨‍🏭",
+    "man factory worker"
+  ],
+  [
+    "woman_technologist",
+    "👩‍💻",
+    "woman technologist"
+  ],
+  [
+    "man_technologist",
+    "👨‍💻",
+    "man technologist"
+  ],
+  [
+    "woman_office_worker",
+    "👩‍💼",
+    "woman office worker"
+  ],
+  [
+    "man_office_worker",
+    "👨‍💼",
+    "man office worker"
+  ],
+  [
+    "woman_mechanic",
+    "👩‍🔧",
+    "woman mechanic"
+  ],
+  [
+    "man_mechanic",
+    "👨‍🔧",
+    "man mechanic"
+  ],
+  [
+    "woman_scientist",
+    "👩‍🔬",
+    "woman scientist"
+  ],
+  [
+    "man_scientist",
+    "👨‍🔬",
+    "man scientist"
+  ],
+  [
+    "woman_artist",
+    "👩‍🎨",
+    "woman artist"
+  ],
+  [
+    "man_artist",
+    "👨‍🎨",
+    "man artist"
+  ],
+  [
+    "woman_firefighter",
+    "👩‍🚒",
+    "woman firefighter"
+  ],
+  [
+    "man_firefighter",
+    "👨‍🚒",
+    "man firefighter"
+  ],
+  [
+    "woman_pilot",
+    "👩‍✈️",
+    "woman pilot"
+  ],
+  [
+    "man_pilot",
+    "👨‍✈️",
+    "man pilot"
+  ],
+  [
+    "woman_astronaut",
+    "👩‍🚀",
+    "woman astronaut"
+  ],
+  [
+    "man_astronaut",
+    "👨‍🚀",
+    "man astronaut"
+  ],
+  [
+    "woman_judge",
+    "👩‍⚖️",
+    "woman judge"
+  ],
+  [
+    "man_judge",
+    "👨‍⚖️",
+    "man judge"
+  ],
+  [
+    "mrs_claus",
+    "🤶",
+    "Mrs. Claus"
+  ],
+  [
+    "santa",
+    "🎅",
+    "Santa Claus"
+  ],
+  [
+    "princess",
+    "👸",
+    "princess"
+  ],
+  [
+    "prince",
+    "🤴",
+    "prince"
+  ],
+  [
+    "bride_with_veil",
+    "👰",
+    "bride with veil"
+  ],
+  [
+    "man_in_tuxedo",
+    "🤵",
+    "man in tuxedo"
+  ],
+  [
+    "angel",
+    "👼",
+    "baby angel"
+  ],
+  [
+    "pregnant_woman",
+    "🤰",
+    "pregnant woman"
+  ],
+  [
+    "bowing_woman",
+    "🙇‍♀️",
+    "woman bowing"
+  ],
+  [
+    "bowing_man",
+    "🙇",
+    "person bowing"
+  ],
+  [
+    "bow",
+    "🙇",
+    "person bowing"
+  ],
+  [
+    "tipping_hand_woman",
+    "💁",
+    "person tipping hand"
+  ],
+  [
+    "information_desk_person",
+    "💁",
+    "person tipping hand"
+  ],
+  [
+    "tipping_hand_man",
+    "💁‍♂️",
+    "man tipping hand"
+  ],
+  [
+    "no_good_woman",
+    "🙅",
+    "person gesturing NO"
+  ],
+  [
+    "no_good",
+    "🙅",
+    "person gesturing NO"
+  ],
+  [
+    "ng_woman",
+    "🙅",
+    "person gesturing NO"
+  ],
+  [
+    "no_good_man",
+    "🙅‍♂️",
+    "man gesturing NO"
+  ],
+  [
+    "ng_man",
+    "🙅‍♂️",
+    "man gesturing NO"
+  ],
+  [
+    "ok_woman",
+    "🙆",
+    "person gesturing OK"
+  ],
+  [
+    "ok_man",
+    "🙆‍♂️",
+    "man gesturing OK"
+  ],
+  [
+    "raising_hand_woman",
+    "🙋",
+    "person raising hand"
+  ],
+  [
+    "raising_hand",
+    "🙋",
+    "person raising hand"
+  ],
+  [
+    "raising_hand_man",
+    "🙋‍♂️",
+    "man raising hand"
+  ],
+  [
+    "woman_facepalming",
+    "🤦‍♀️",
+    "woman facepalming"
+  ],
+  [
+    "man_facepalming",
+    "🤦‍♂️",
+    "man facepalming"
+  ],
+  [
+    "woman_shrugging",
+    "🤷‍♀️",
+    "woman shrugging"
+  ],
+  [
+    "man_shrugging",
+    "🤷‍♂️",
+    "man shrugging"
+  ],
+  [
+    "pouting_woman",
+    "🙎",
+    "person pouting"
+  ],
+  [
+    "person_with_pouting_face",
+    "🙎",
+    "person pouting"
+  ],
+  [
+    "pouting_man",
+    "🙎‍♂️",
+    "man pouting"
+  ],
+  [
+    "frowning_woman",
+    "🙍",
+    "person frowning"
+  ],
+  [
+    "person_frowning",
+    "🙍",
+    "person frowning"
+  ],
+  [
+    "frowning_man",
+    "🙍‍♂️",
+    "man frowning"
+  ],
+  [
+    "haircut_woman",
+    "💇",
+    "person getting haircut"
+  ],
+  [
+    "haircut",
+    "💇",
+    "person getting haircut"
+  ],
+  [
+    "haircut_man",
+    "💇‍♂️",
+    "man getting haircut"
+  ],
+  [
+    "massage_woman",
+    "💆",
+    "person getting massage"
+  ],
+  [
+    "massage",
+    "💆",
+    "person getting massage"
+  ],
+  [
+    "massage_man",
+    "💆‍♂️",
+    "man getting massage"
+  ],
+  [
+    "business_suit_levitating",
+    "🕴",
+    "man in business suit levitating"
+  ],
+  [
+    "dancer",
+    "💃",
+    "woman dancing"
+  ],
+  [
+    "man_dancing",
+    "🕺",
+    "man dancing"
+  ],
+  [
+    "dancing_women",
+    "👯",
+    "people with bunny ears partying"
+  ],
+  [
+    "dancers",
+    "👯",
+    "people with bunny ears partying"
+  ],
+  [
+    "dancing_men",
+    "👯‍♂️",
+    "men with bunny ears partying"
+  ],
+  [
+    "walking_woman",
+    "🚶‍♀️",
+    "woman walking"
+  ],
+  [
+    "walking_man",
+    "🚶",
+    "person walking"
+  ],
+  [
+    "walking",
+    "🚶",
+    "person walking"
+  ],
+  [
+    "running_woman",
+    "🏃‍♀️",
+    "woman running"
+  ],
+  [
+    "running_man",
+    "🏃",
+    "person running"
+  ],
+  [
+    "runner",
+    "🏃",
+    "person running"
+  ],
+  [
+    "running",
+    "🏃",
+    "person running"
+  ],
+  [
+    "couple",
+    "👫",
+    "man and woman holding hands"
+  ],
+  [
+    "two_women_holding_hands",
+    "👭",
+    "two women holding hands"
+  ],
+  [
+    "two_men_holding_hands",
+    "👬",
+    "two men holding hands"
+  ],
+  [
+    "couple_with_heart_woman_man",
+    "💑",
+    "couple with heart"
+  ],
+  [
+    "couple_with_heart",
+    "💑",
+    "couple with heart"
+  ],
+  [
+    "couple_with_heart_woman_woman",
+    "👩‍❤️‍👩",
+    "couple with heart: woman, woman"
+  ],
+  [
+    "couple_with_heart_man_man",
+    "👨‍❤️‍👨",
+    "couple with heart: man, man"
+  ],
+  [
+    "couplekiss_man_woman",
+    "💏",
+    "kiss"
+  ],
+  [
+    "couplekiss_woman_woman",
+    "👩‍❤️‍💋‍👩",
+    "kiss: woman, woman"
+  ],
+  [
+    "couplekiss_man_man",
+    "👨‍❤️‍💋‍👨",
+    "kiss: man, man"
+  ],
+  [
+    "family_man_woman_boy",
+    "👪",
+    "family"
+  ],
+  [
+    "family",
+    "👪",
+    "family"
+  ],
+  [
+    "family_man_woman_girl",
+    "👨‍👩‍👧",
+    "family: man, woman, girl"
+  ],
+  [
+    "family_man_woman_girl_boy",
+    "👨‍👩‍👧‍👦",
+    "family: man, woman, girl, boy"
+  ],
+  [
+    "family_man_woman_boy_boy",
+    "👨‍👩‍👦‍👦",
+    "family: man, woman, boy, boy"
+  ],
+  [
+    "family_man_woman_girl_girl",
+    "👨‍👩‍👧‍👧",
+    "family: man, woman, girl, girl"
+  ],
+  [
+    "family_woman_woman_boy",
+    "👩‍👩‍👦",
+    "family: woman, woman, boy"
+  ],
+  [
+    "family_woman_woman_girl",
+    "👩‍👩‍👧",
+    "family: woman, woman, girl"
+  ],
+  [
+    "family_woman_woman_girl_boy",
+    "👩‍👩‍👧‍👦",
+    "family: woman, woman, girl, boy"
+  ],
+  [
+    "family_woman_woman_boy_boy",
+    "👩‍👩‍👦‍👦",
+    "family: woman, woman, boy, boy"
+  ],
+  [
+    "family_woman_woman_girl_girl",
+    "👩‍👩‍👧‍👧",
+    "family: woman, woman, girl, girl"
+  ],
+  [
+    "family_man_man_boy",
+    "👨‍👨‍👦",
+    "family: man, man, boy"
+  ],
+  [
+    "family_man_man_girl",
+    "👨‍👨‍👧",
+    "family: man, man, girl"
+  ],
+  [
+    "family_man_man_girl_boy",
+    "👨‍👨‍👧‍👦",
+    "family: man, man, girl, boy"
+  ],
+  [
+    "family_man_man_boy_boy",
+    "👨‍👨‍👦‍👦",
+    "family: man, man, boy, boy"
+  ],
+  [
+    "family_man_man_girl_girl",
+    "👨‍👨‍👧‍👧",
+    "family: man, man, girl, girl"
+  ],
+  [
+    "family_woman_boy",
+    "👩‍👦",
+    "family: woman, boy"
+  ],
+  [
+    "family_woman_girl",
+    "👩‍👧",
+    "family: woman, girl"
+  ],
+  [
+    "family_woman_girl_boy",
+    "👩‍👧‍👦",
+    "family: woman, girl, boy"
+  ],
+  [
+    "family_woman_boy_boy",
+    "👩‍👦‍👦",
+    "family: woman, boy, boy"
+  ],
+  [
+    "family_woman_girl_girl",
+    "👩‍👧‍👧",
+    "family: woman, girl, girl"
+  ],
+  [
+    "family_man_boy",
+    "👨‍👦",
+    "family: man, boy"
+  ],
+  [
+    "family_man_girl",
+    "👨‍👧",
+    "family: man, girl"
+  ],
+  [
+    "family_man_girl_boy",
+    "👨‍👧‍👦",
+    "family: man, girl, boy"
+  ],
+  [
+    "family_man_boy_boy",
+    "👨‍👦‍👦",
+    "family: man, boy, boy"
+  ],
+  [
+    "family_man_girl_girl",
+    "👨‍👧‍👧",
+    "family: man, girl, girl"
+  ],
+  [
+    "womans_clothes",
+    "👚",
+    "woman’s clothes"
+  ],
+  [
+    "shirt",
+    "👕",
+    "t-shirt"
+  ],
+  [
+    "tshirt",
+    "👕",
+    "t-shirt"
+  ],
+  [
+    "jeans",
+    "👖",
+    "jeans"
+  ],
+  [
+    "necktie",
+    "👔",
+    "necktie"
+  ],
+  [
+    "dress",
+    "👗",
+    "dress"
+  ],
+  [
+    "bikini",
+    "👙",
+    "bikini"
+  ],
+  [
+    "kimono",
+    "👘",
+    "kimono"
+  ],
+  [
+    "high_heel",
+    "👠",
+    "high-heeled shoe"
+  ],
+  [
+    "sandal",
+    "👡",
+    "woman’s sandal"
+  ],
+  [
+    "boot",
+    "👢",
+    "woman’s boot"
+  ],
+  [
+    "mans_shoe",
+    "👞",
+    "man’s shoe"
+  ],
+  [
+    "shoe",
+    "👞",
+    "man’s shoe"
+  ],
+  [
+    "athletic_shoe",
+    "👟",
+    "running shoe"
+  ],
+  [
+    "womans_hat",
+    "👒",
+    "woman’s hat"
+  ],
+  [
+    "tophat",
+    "🎩",
+    "top hat"
+  ],
+  [
+    "mortar_board",
+    "🎓",
+    "graduation cap"
+  ],
+  [
+    "crown",
+    "👑",
+    "crown"
+  ],
+  [
+    "rescue_worker_helmet",
+    "⛑",
+    "rescue worker’s helmet"
+  ],
+  [
+    "school_satchel",
+    "🎒",
+    "school backpack"
+  ],
+  [
+    "pouch",
+    "👝",
+    "clutch bag"
+  ],
+  [
+    "purse",
+    "👛",
+    "purse"
+  ],
+  [
+    "handbag",
+    "👜",
+    "handbag"
+  ],
+  [
+    "briefcase",
+    "💼",
+    "briefcase"
+  ],
+  [
+    "eyeglasses",
+    "👓",
+    "glasses"
+  ],
+  [
+    "dark_sunglasses",
+    "🕶",
+    "sunglasses"
+  ],
+  [
+    "closed_umbrella",
+    "🌂",
+    "closed umbrella"
+  ],
+  [
+    "open_umbrella",
+    "☂️",
+    "umbrella"
+  ],
+  [
+    "dog",
+    "🐶",
+    "dog face"
+  ],
+  [
+    "cat",
+    "🐱",
+    "cat face"
+  ],
+  [
+    "mouse",
+    "🐭",
+    "mouse face"
+  ],
+  [
+    "hamster",
+    "🐹",
+    "hamster face"
+  ],
+  [
+    "rabbit",
+    "🐰",
+    "rabbit face"
+  ],
+  [
+    "fox_face",
+    "🦊",
+    "fox face"
+  ],
+  [
+    "bear",
+    "🐻",
+    "bear face"
+  ],
+  [
+    "panda_face",
+    "🐼",
+    "panda face"
+  ],
+  [
+    "koala",
+    "🐨",
+    "koala"
+  ],
+  [
+    "tiger",
+    "🐯",
+    "tiger face"
+  ],
+  [
+    "lion",
+    "🦁",
+    "lion face"
+  ],
+  [
+    "cow",
+    "🐮",
+    "cow face"
+  ],
+  [
+    "pig",
+    "🐷",
+    "pig face"
+  ],
+  [
+    "pig_nose",
+    "🐽",
+    "pig nose"
+  ],
+  [
+    "frog",
+    "🐸",
+    "frog face"
+  ],
+  [
+    "monkey_face",
+    "🐵",
+    "monkey face"
+  ],
+  [
+    "see_no_evil",
+    "🙈",
+    "see-no-evil monkey"
+  ],
+  [
+    "hear_no_evil",
+    "🙉",
+    "hear-no-evil monkey"
+  ],
+  [
+    "speak_no_evil",
+    "🙊",
+    "speak-no-evil monkey"
+  ],
+  [
+    "monkey",
+    "🐒",
+    "monkey"
+  ],
+  [
+    "chicken",
+    "🐔",
+    "chicken"
+  ],
+  [
+    "penguin",
+    "🐧",
+    "penguin"
+  ],
+  [
+    "bird",
+    "🐦",
+    "bird"
+  ],
+  [
+    "baby_chick",
+    "🐤",
+    "baby chick"
+  ],
+  [
+    "hatching_chick",
+    "🐣",
+    "hatching chick"
+  ],
+  [
+    "hatched_chick",
+    "🐥",
+    "front-facing baby chick"
+  ],
+  [
+    "duck",
+    "🦆",
+    "duck"
+  ],
+  [
+    "eagle",
+    "🦅",
+    "eagle"
+  ],
+  [
+    "owl",
+    "🦉",
+    "owl"
+  ],
+  [
+    "bat",
+    "🦇",
+    "bat"
+  ],
+  [
+    "wolf",
+    "🐺",
+    "wolf face"
+  ],
+  [
+    "boar",
+    "🐗",
+    "boar"
+  ],
+  [
+    "horse",
+    "🐴",
+    "horse face"
+  ],
+  [
+    "unicorn",
+    "🦄",
+    "unicorn face"
+  ],
+  [
+    "bee",
+    "🐝",
+    "honeybee"
+  ],
+  [
+    "honeybee",
+    "🐝",
+    "honeybee"
+  ],
+  [
+    "bug",
+    "🐛",
+    "bug"
+  ],
+  [
+    "butterfly",
+    "🦋",
+    "butterfly"
+  ],
+  [
+    "snail",
+    "🐌",
+    "snail"
+  ],
+  [
+    "shell",
+    "🐚",
+    "spiral shell"
+  ],
+  [
+    "beetle",
+    "🐞",
+    "lady beetle"
+  ],
+  [
+    "ant",
+    "🐜",
+    "ant"
+  ],
+  [
+    "spider",
+    "🕷",
+    "spider"
+  ],
+  [
+    "spider_web",
+    "🕸",
+    "spider web"
+  ],
+  [
+    "turtle",
+    "🐢",
+    "turtle"
+  ],
+  [
+    "snake",
+    "🐍",
+    "snake"
+  ],
+  [
+    "lizard",
+    "🦎",
+    "lizard"
+  ],
+  [
+    "scorpion",
+    "🦂",
+    "scorpion"
+  ],
+  [
+    "crab",
+    "🦀",
+    "crab"
+  ],
+  [
+    "squid",
+    "🦑",
+    "squid"
+  ],
+  [
+    "octopus",
+    "🐙",
+    "octopus"
+  ],
+  [
+    "shrimp",
+    "🦐",
+    "shrimp"
+  ],
+  [
+    "tropical_fish",
+    "🐠",
+    "tropical fish"
+  ],
+  [
+    "fish",
+    "🐟",
+    "fish"
+  ],
+  [
+    "blowfish",
+    "🐡",
+    "blowfish"
+  ],
+  [
+    "dolphin",
+    "🐬",
+    "dolphin"
+  ],
+  [
+    "flipper",
+    "🐬",
+    "dolphin"
+  ],
+  [
+    "shark",
+    "🦈",
+    "shark"
+  ],
+  [
+    "whale",
+    "🐳",
+    "spouting whale"
+  ],
+  [
+    "whale2",
+    "🐋",
+    "whale"
+  ],
+  [
+    "crocodile",
+    "🐊",
+    "crocodile"
+  ],
+  [
+    "leopard",
+    "🐆",
+    "leopard"
+  ],
+  [
+    "tiger2",
+    "🐅",
+    "tiger"
+  ],
+  [
+    "water_buffalo",
+    "🐃",
+    "water buffalo"
+  ],
+  [
+    "ox",
+    "🐂",
+    "ox"
+  ],
+  [
+    "cow2",
+    "🐄",
+    "cow"
+  ],
+  [
+    "deer",
+    "🦌",
+    "deer"
+  ],
+  [
+    "dromedary_camel",
+    "🐪",
+    "camel"
+  ],
+  [
+    "camel",
+    "🐫",
+    "two-hump camel"
+  ],
+  [
+    "elephant",
+    "🐘",
+    "elephant"
+  ],
+  [
+    "rhinoceros",
+    "🦏",
+    "rhinoceros"
+  ],
+  [
+    "gorilla",
+    "🦍",
+    "gorilla"
+  ],
+  [
+    "racehorse",
+    "🐎",
+    "horse"
+  ],
+  [
+    "pig2",
+    "🐖",
+    "pig"
+  ],
+  [
+    "goat",
+    "🐐",
+    "goat"
+  ],
+  [
+    "ram",
+    "🐏",
+    "ram"
+  ],
+  [
+    "sheep",
+    "🐑",
+    "sheep"
+  ],
+  [
+    "dog2",
+    "🐕",
+    "dog"
+  ],
+  [
+    "poodle",
+    "🐩",
+    "poodle"
+  ],
+  [
+    "cat2",
+    "🐈",
+    "cat"
+  ],
+  [
+    "rooster",
+    "🐓",
+    "rooster"
+  ],
+  [
+    "turkey",
+    "🦃",
+    "turkey"
+  ],
+  [
+    "dove",
+    "🕊",
+    "dove"
+  ],
+  [
+    "rabbit2",
+    "🐇",
+    "rabbit"
+  ],
+  [
+    "mouse2",
+    "🐁",
+    "mouse"
+  ],
+  [
+    "rat",
+    "🐀",
+    "rat"
+  ],
+  [
+    "chipmunk",
+    "🐿",
+    "chipmunk"
+  ],
+  [
+    "feet",
+    "🐾",
+    "paw prints"
+  ],
+  [
+    "paw_prints",
+    "🐾",
+    "paw prints"
+  ],
+  [
+    "dragon",
+    "🐉",
+    "dragon"
+  ],
+  [
+    "dragon_face",
+    "🐲",
+    "dragon face"
+  ],
+  [
+    "cactus",
+    "🌵",
+    "cactus"
+  ],
+  [
+    "christmas_tree",
+    "🎄",
+    "Christmas tree"
+  ],
+  [
+    "evergreen_tree",
+    "🌲",
+    "evergreen tree"
+  ],
+  [
+    "deciduous_tree",
+    "🌳",
+    "deciduous tree"
+  ],
+  [
+    "palm_tree",
+    "🌴",
+    "palm tree"
+  ],
+  [
+    "seedling",
+    "🌱",
+    "seedling"
+  ],
+  [
+    "herb",
+    "🌿",
+    "herb"
+  ],
+  [
+    "shamrock",
+    "☘️",
+    "shamrock"
+  ],
+  [
+    "four_leaf_clover",
+    "🍀",
+    "four leaf clover"
+  ],
+  [
+    "bamboo",
+    "🎍",
+    "pine decoration"
+  ],
+  [
+    "tanabata_tree",
+    "🎋",
+    "tanabata tree"
+  ],
+  [
+    "leaves",
+    "🍃",
+    "leaf fluttering in wind"
+  ],
+  [
+    "fallen_leaf",
+    "🍂",
+    "fallen leaf"
+  ],
+  [
+    "maple_leaf",
+    "🍁",
+    "maple leaf"
+  ],
+  [
+    "mushroom",
+    "🍄",
+    "mushroom"
+  ],
+  [
+    "ear_of_rice",
+    "🌾",
+    "sheaf of rice"
+  ],
+  [
+    "bouquet",
+    "💐",
+    "bouquet"
+  ],
+  [
+    "tulip",
+    "🌷",
+    "tulip"
+  ],
+  [
+    "rose",
+    "🌹",
+    "rose"
+  ],
+  [
+    "wilted_flower",
+    "🥀",
+    "wilted flower"
+  ],
+  [
+    "sunflower",
+    "🌻",
+    "sunflower"
+  ],
+  [
+    "blossom",
+    "🌼",
+    "blossom"
+  ],
+  [
+    "cherry_blossom",
+    "🌸",
+    "cherry blossom"
+  ],
+  [
+    "hibiscus",
+    "🌺",
+    "hibiscus"
+  ],
+  [
+    "earth_americas",
+    "🌎",
+    "globe showing Americas"
+  ],
+  [
+    "earth_africa",
+    "🌍",
+    "globe showing Europe-Africa"
+  ],
+  [
+    "earth_asia",
+    "🌏",
+    "globe showing Asia-Australia"
+  ],
+  [
+    "full_moon",
+    "🌕",
+    "full moon"
+  ],
+  [
+    "waning_gibbous_moon",
+    "🌖",
+    "waning gibbous moon"
+  ],
+  [
+    "last_quarter_moon",
+    "🌗",
+    "last quarter moon"
+  ],
+  [
+    "waning_crescent_moon",
+    "🌘",
+    "waning crescent moon"
+  ],
+  [
+    "new_moon",
+    "🌑",
+    "new moon"
+  ],
+  [
+    "waxing_crescent_moon",
+    "🌒",
+    "waxing crescent moon"
+  ],
+  [
+    "first_quarter_moon",
+    "🌓",
+    "first quarter moon"
+  ],
+  [
+    "moon",
+    "🌔",
+    "waxing gibbous moon"
+  ],
+  [
+    "waxing_gibbous_moon",
+    "🌔",
+    "waxing gibbous moon"
+  ],
+  [
+    "new_moon_with_face",
+    "🌚",
+    "new moon face"
+  ],
+  [
+    "full_moon_with_face",
+    "🌝",
+    "full moon with face"
+  ],
+  [
+    "sun_with_face",
+    "🌞",
+    "sun with face"
+  ],
+  [
+    "first_quarter_moon_with_face",
+    "🌛",
+    "first quarter moon with face"
+  ],
+  [
+    "last_quarter_moon_with_face",
+    "🌜",
+    "last quarter moon with face"
+  ],
+  [
+    "crescent_moon",
+    "🌙",
+    "crescent moon"
+  ],
+  [
+    "dizzy",
+    "💫",
+    "dizzy"
+  ],
+  [
+    "star",
+    "⭐️",
+    "white medium star"
+  ],
+  [
+    "star2",
+    "🌟",
+    "glowing star"
+  ],
+  [
+    "sparkles",
+    "✨",
+    "sparkles"
+  ],
+  [
+    "zap",
+    "⚡️",
+    "high voltage"
+  ],
+  [
+    "fire",
+    "🔥",
+    "fire"
+  ],
+  [
+    "boom",
+    "💥",
+    "collision"
+  ],
+  [
+    "collision",
+    "💥",
+    "collision"
+  ],
+  [
+    "comet",
+    "☄️",
+    "comet"
+  ],
+  [
+    "sunny",
+    "☀️",
+    "sun"
+  ],
+  [
+    "sun_behind_small_cloud",
+    "🌤",
+    "sun behind small cloud"
+  ],
+  [
+    "partly_sunny",
+    "⛅️",
+    "sun behind cloud"
+  ],
+  [
+    "sun_behind_large_cloud",
+    "🌥",
+    "sun behind large cloud"
+  ],
+  [
+    "sun_behind_rain_cloud",
+    "🌦",
+    "sun behind rain cloud"
+  ],
+  [
+    "rainbow",
+    "🌈",
+    "rainbow"
+  ],
+  [
+    "cloud",
+    "☁️",
+    "cloud"
+  ],
+  [
+    "cloud_with_rain",
+    "🌧",
+    "cloud with rain"
+  ],
+  [
+    "cloud_with_lightning_and_rain",
+    "⛈",
+    "cloud with lightning and rain"
+  ],
+  [
+    "cloud_with_lightning",
+    "🌩",
+    "cloud with lightning"
+  ],
+  [
+    "cloud_with_snow",
+    "🌨",
+    "cloud with snow"
+  ],
+  [
+    "snowman_with_snow",
+    "☃️",
+    "snowman"
+  ],
+  [
+    "snowman",
+    "⛄️",
+    "snowman without snow"
+  ],
+  [
+    "snowflake",
+    "❄️",
+    "snowflake"
+  ],
+  [
+    "wind_face",
+    "🌬",
+    "wind face"
+  ],
+  [
+    "dash",
+    "💨",
+    "dashing away"
+  ],
+  [
+    "tornado",
+    "🌪",
+    "tornado"
+  ],
+  [
+    "fog",
+    "🌫",
+    "fog"
+  ],
+  [
+    "ocean",
+    "🌊",
+    "water wave"
+  ],
+  [
+    "droplet",
+    "💧",
+    "droplet"
+  ],
+  [
+    "sweat_drops",
+    "💦",
+    "sweat droplets"
+  ],
+  [
+    "umbrella",
+    "☔️",
+    "umbrella with rain drops"
+  ],
+  [
+    "green_apple",
+    "🍏",
+    "green apple"
+  ],
+  [
+    "apple",
+    "🍎",
+    "red apple"
+  ],
+  [
+    "pear",
+    "🍐",
+    "pear"
+  ],
+  [
+    "tangerine",
+    "🍊",
+    "tangerine"
+  ],
+  [
+    "orange",
+    "🍊",
+    "tangerine"
+  ],
+  [
+    "mandarin",
+    "🍊",
+    "tangerine"
+  ],
+  [
+    "lemon",
+    "🍋",
+    "lemon"
+  ],
+  [
+    "banana",
+    "🍌",
+    "banana"
+  ],
+  [
+    "watermelon",
+    "🍉",
+    "watermelon"
+  ],
+  [
+    "grapes",
+    "🍇",
+    "grapes"
+  ],
+  [
+    "strawberry",
+    "🍓",
+    "strawberry"
+  ],
+  [
+    "melon",
+    "🍈",
+    "melon"
+  ],
+  [
+    "cherries",
+    "🍒",
+    "cherries"
+  ],
+  [
+    "peach",
+    "🍑",
+    "peach"
+  ],
+  [
+    "pineapple",
+    "🍍",
+    "pineapple"
+  ],
+  [
+    "kiwi_fruit",
+    "🥝",
+    "kiwi fruit"
+  ],
+  [
+    "avocado",
+    "🥑",
+    "avocado"
+  ],
+  [
+    "tomato",
+    "🍅",
+    "tomato"
+  ],
+  [
+    "eggplant",
+    "🍆",
+    "eggplant"
+  ],
+  [
+    "cucumber",
+    "🥒",
+    "cucumber"
+  ],
+  [
+    "carrot",
+    "🥕",
+    "carrot"
+  ],
+  [
+    "corn",
+    "🌽",
+    "ear of corn"
+  ],
+  [
+    "hot_pepper",
+    "🌶",
+    "hot pepper"
+  ],
+  [
+    "potato",
+    "🥔",
+    "potato"
+  ],
+  [
+    "sweet_potato",
+    "🍠",
+    "roasted sweet potato"
+  ],
+  [
+    "chestnut",
+    "🌰",
+    "chestnut"
+  ],
+  [
+    "peanuts",
+    "🥜",
+    "peanuts"
+  ],
+  [
+    "honey_pot",
+    "🍯",
+    "honey pot"
+  ],
+  [
+    "croissant",
+    "🥐",
+    "croissant"
+  ],
+  [
+    "bread",
+    "🍞",
+    "bread"
+  ],
+  [
+    "baguette_bread",
+    "🥖",
+    "baguette bread"
+  ],
+  [
+    "cheese",
+    "🧀",
+    "cheese wedge"
+  ],
+  [
+    "egg",
+    "🥚",
+    "egg"
+  ],
+  [
+    "fried_egg",
+    "🍳",
+    "cooking"
+  ],
+  [
+    "bacon",
+    "🥓",
+    "bacon"
+  ],
+  [
+    "pancakes",
+    "🥞",
+    "pancakes"
+  ],
+  [
+    "fried_shrimp",
+    "🍤",
+    "fried shrimp"
+  ],
+  [
+    "poultry_leg",
+    "🍗",
+    "poultry leg"
+  ],
+  [
+    "meat_on_bone",
+    "🍖",
+    "meat on bone"
+  ],
+  [
+    "pizza",
+    "🍕",
+    "pizza"
+  ],
+  [
+    "hotdog",
+    "🌭",
+    "hot dog"
+  ],
+  [
+    "hamburger",
+    "🍔",
+    "hamburger"
+  ],
+  [
+    "fries",
+    "🍟",
+    "french fries"
+  ],
+  [
+    "stuffed_flatbread",
+    "🥙",
+    "stuffed flatbread"
+  ],
+  [
+    "taco",
+    "🌮",
+    "taco"
+  ],
+  [
+    "burrito",
+    "🌯",
+    "burrito"
+  ],
+  [
+    "green_salad",
+    "🥗",
+    "green salad"
+  ],
+  [
+    "shallow_pan_of_food",
+    "🥘",
+    "shallow pan of food"
+  ],
+  [
+    "spaghetti",
+    "🍝",
+    "spaghetti"
+  ],
+  [
+    "ramen",
+    "🍜",
+    "steaming bowl"
+  ],
+  [
+    "stew",
+    "🍲",
+    "pot of food"
+  ],
+  [
+    "fish_cake",
+    "🍥",
+    "fish cake with swirl"
+  ],
+  [
+    "sushi",
+    "🍣",
+    "sushi"
+  ],
+  [
+    "bento",
+    "🍱",
+    "bento box"
+  ],
+  [
+    "curry",
+    "🍛",
+    "curry rice"
+  ],
+  [
+    "rice",
+    "🍚",
+    "cooked rice"
+  ],
+  [
+    "rice_ball",
+    "🍙",
+    "rice ball"
+  ],
+  [
+    "rice_cracker",
+    "🍘",
+    "rice cracker"
+  ],
+  [
+    "oden",
+    "🍢",
+    "oden"
+  ],
+  [
+    "dango",
+    "🍡",
+    "dango"
+  ],
+  [
+    "shaved_ice",
+    "🍧",
+    "shaved ice"
+  ],
+  [
+    "ice_cream",
+    "🍨",
+    "ice cream"
+  ],
+  [
+    "icecream",
+    "🍦",
+    "soft ice cream"
+  ],
+  [
+    "cake",
+    "🍰",
+    "shortcake"
+  ],
+  [
+    "birthday",
+    "🎂",
+    "birthday cake"
+  ],
+  [
+    "custard",
+    "🍮",
+    "custard"
+  ],
+  [
+    "lollipop",
+    "🍭",
+    "lollipop"
+  ],
+  [
+    "candy",
+    "🍬",
+    "candy"
+  ],
+  [
+    "chocolate_bar",
+    "🍫",
+    "chocolate bar"
+  ],
+  [
+    "popcorn",
+    "🍿",
+    "popcorn"
+  ],
+  [
+    "doughnut",
+    "🍩",
+    "doughnut"
+  ],
+  [
+    "cookie",
+    "🍪",
+    "cookie"
+  ],
+  [
+    "milk_glass",
+    "🥛",
+    "glass of milk"
+  ],
+  [
+    "baby_bottle",
+    "🍼",
+    "baby bottle"
+  ],
+  [
+    "coffee",
+    "☕️",
+    "hot beverage"
+  ],
+  [
+    "tea",
+    "🍵",
+    "teacup without handle"
+  ],
+  [
+    "sake",
+    "🍶",
+    "sake"
+  ],
+  [
+    "beer",
+    "🍺",
+    "beer mug"
+  ],
+  [
+    "beers",
+    "🍻",
+    "clinking beer mugs"
+  ],
+  [
+    "clinking_glasses",
+    "🥂",
+    "clinking glasses"
+  ],
+  [
+    "wine_glass",
+    "🍷",
+    "wine glass"
+  ],
+  [
+    "tumbler_glass",
+    "🥃",
+    "tumbler glass"
+  ],
+  [
+    "cocktail",
+    "🍸",
+    "cocktail glass"
+  ],
+  [
+    "tropical_drink",
+    "🍹",
+    "tropical drink"
+  ],
+  [
+    "champagne",
+    "🍾",
+    "bottle with popping cork"
+  ],
+  [
+    "spoon",
+    "🥄",
+    "spoon"
+  ],
+  [
+    "fork_and_knife",
+    "🍴",
+    "fork and knife"
+  ],
+  [
+    "plate_with_cutlery",
+    "🍽",
+    "fork and knife with plate"
+  ],
+  [
+    "soccer",
+    "⚽️",
+    "soccer ball"
+  ],
+  [
+    "basketball",
+    "🏀",
+    "basketball"
+  ],
+  [
+    "football",
+    "🏈",
+    "american football"
+  ],
+  [
+    "baseball",
+    "⚾️",
+    "baseball"
+  ],
+  [
+    "tennis",
+    "🎾",
+    "tennis"
+  ],
+  [
+    "volleyball",
+    "🏐",
+    "volleyball"
+  ],
+  [
+    "rugby_football",
+    "🏉",
+    "rugby football"
+  ],
+  [
+    "8ball",
+    "🎱",
+    "pool 8 ball"
+  ],
+  [
+    "ping_pong",
+    "🏓",
+    "ping pong"
+  ],
+  [
+    "badminton",
+    "🏸",
+    "badminton"
+  ],
+  [
+    "goal_net",
+    "🥅",
+    "goal net"
+  ],
+  [
+    "ice_hockey",
+    "🏒",
+    "ice hockey"
+  ],
+  [
+    "field_hockey",
+    "🏑",
+    "field hockey"
+  ],
+  [
+    "cricket",
+    "🏏",
+    "cricket"
+  ],
+  [
+    "golf",
+    "⛳️",
+    "flag in hole"
+  ],
+  [
+    "bow_and_arrow",
+    "🏹",
+    "bow and arrow"
+  ],
+  [
+    "fishing_pole_and_fish",
+    "🎣",
+    "fishing pole"
+  ],
+  [
+    "boxing_glove",
+    "🥊",
+    "boxing glove"
+  ],
+  [
+    "martial_arts_uniform",
+    "🥋",
+    "martial arts uniform"
+  ],
+  [
+    "ice_skate",
+    "⛸",
+    "ice skate"
+  ],
+  [
+    "ski",
+    "🎿",
+    "skis"
+  ],
+  [
+    "skier",
+    "⛷",
+    "skier"
+  ],
+  [
+    "snowboarder",
+    "🏂",
+    "snowboarder"
+  ],
+  [
+    "weight_lifting_woman",
+    "🏋️‍♀️",
+    "woman lifting weights"
+  ],
+  [
+    "weight_lifting_man",
+    "🏋️",
+    "person lifting weights"
+  ],
+  [
+    "person_fencing",
+    "🤺",
+    "person fencing"
+  ],
+  [
+    "women_wrestling",
+    "🤼‍♀️",
+    "women wrestling"
+  ],
+  [
+    "men_wrestling",
+    "🤼‍♂️",
+    "men wrestling"
+  ],
+  [
+    "woman_cartwheeling",
+    "🤸‍♀️",
+    "woman cartwheeling"
+  ],
+  [
+    "man_cartwheeling",
+    "🤸‍♂️",
+    "man cartwheeling"
+  ],
+  [
+    "basketball_woman",
+    "⛹️‍♀️",
+    "woman bouncing ball"
+  ],
+  [
+    "basketball_man",
+    "⛹️",
+    "person bouncing ball"
+  ],
+  [
+    "woman_playing_handball",
+    "🤾‍♀️",
+    "woman playing handball"
+  ],
+  [
+    "man_playing_handball",
+    "🤾‍♂️",
+    "man playing handball"
+  ],
+  [
+    "golfing_woman",
+    "🏌️‍♀️",
+    "woman golfing"
+  ],
+  [
+    "golfing_man",
+    "🏌️",
+    "person golfing"
+  ],
+  [
+    "surfing_woman",
+    "🏄‍♀️",
+    "woman surfing"
+  ],
+  [
+    "surfing_man",
+    "🏄",
+    "person surfing"
+  ],
+  [
+    "surfer",
+    "🏄",
+    "person surfing"
+  ],
+  [
+    "swimming_woman",
+    "🏊‍♀️",
+    "woman swimming"
+  ],
+  [
+    "swimming_man",
+    "🏊",
+    "person swimming"
+  ],
+  [
+    "swimmer",
+    "🏊",
+    "person swimming"
+  ],
+  [
+    "woman_playing_water_polo",
+    "🤽‍♀️",
+    "woman playing water polo"
+  ],
+  [
+    "man_playing_water_polo",
+    "🤽‍♂️",
+    "man playing water polo"
+  ],
+  [
+    "rowing_woman",
+    "🚣‍♀️",
+    "woman rowing boat"
+  ],
+  [
+    "rowing_man",
+    "🚣",
+    "person rowing boat"
+  ],
+  [
+    "rowboat",
+    "🚣",
+    "person rowing boat"
+  ],
+  [
+    "horse_racing",
+    "🏇",
+    "horse racing"
+  ],
+  [
+    "biking_woman",
+    "🚴‍♀️",
+    "woman biking"
+  ],
+  [
+    "biking_man",
+    "🚴",
+    "person biking"
+  ],
+  [
+    "bicyclist",
+    "🚴",
+    "person biking"
+  ],
+  [
+    "mountain_biking_woman",
+    "🚵‍♀️",
+    "woman mountain biking"
+  ],
+  [
+    "mountain_biking_man",
+    "🚵",
+    "person mountain biking"
+  ],
+  [
+    "mountain_bicyclist",
+    "🚵",
+    "person mountain biking"
+  ],
+  [
+    "running_shirt_with_sash",
+    "🎽",
+    "running shirt"
+  ],
+  [
+    "medal_sports",
+    "🏅",
+    "sports medal"
+  ],
+  [
+    "medal_military",
+    "🎖",
+    "military medal"
+  ],
+  [
+    "1st_place_medal",
+    "🥇",
+    "1st place medal"
+  ],
+  [
+    "2nd_place_medal",
+    "🥈",
+    "2nd place medal"
+  ],
+  [
+    "3rd_place_medal",
+    "🥉",
+    "3rd place medal"
+  ],
+  [
+    "trophy",
+    "🏆",
+    "trophy"
+  ],
+  [
+    "rosette",
+    "🏵",
+    "rosette"
+  ],
+  [
+    "reminder_ribbon",
+    "🎗",
+    "reminder ribbon"
+  ],
+  [
+    "ticket",
+    "🎫",
+    "ticket"
+  ],
+  [
+    "tickets",
+    "🎟",
+    "admission tickets"
+  ],
+  [
+    "circus_tent",
+    "🎪",
+    "circus tent"
+  ],
+  [
+    "woman_juggling",
+    "🤹‍♀️",
+    "woman juggling"
+  ],
+  [
+    "man_juggling",
+    "🤹‍♂️",
+    "man juggling"
+  ],
+  [
+    "performing_arts",
+    "🎭",
+    "performing arts"
+  ],
+  [
+    "art",
+    "🎨",
+    "artist palette"
+  ],
+  [
+    "clapper",
+    "🎬",
+    "clapper board"
+  ],
+  [
+    "microphone",
+    "🎤",
+    "microphone"
+  ],
+  [
+    "headphones",
+    "🎧",
+    "headphone"
+  ],
+  [
+    "musical_score",
+    "🎼",
+    "musical score"
+  ],
+  [
+    "musical_keyboard",
+    "🎹",
+    "musical keyboard"
+  ],
+  [
+    "drum",
+    "🥁",
+    "drum"
+  ],
+  [
+    "saxophone",
+    "🎷",
+    "saxophone"
+  ],
+  [
+    "trumpet",
+    "🎺",
+    "trumpet"
+  ],
+  [
+    "guitar",
+    "🎸",
+    "guitar"
+  ],
+  [
+    "violin",
+    "🎻",
+    "violin"
+  ],
+  [
+    "game_die",
+    "🎲",
+    "game die"
+  ],
+  [
+    "dart",
+    "🎯",
+    "direct hit"
+  ],
+  [
+    "bowling",
+    "🎳",
+    "bowling"
+  ],
+  [
+    "video_game",
+    "🎮",
+    "video game"
+  ],
+  [
+    "slot_machine",
+    "🎰",
+    "slot machine"
+  ],
+  [
+    "car",
+    "🚗",
+    "automobile"
+  ],
+  [
+    "red_car",
+    "🚗",
+    "automobile"
+  ],
+  [
+    "taxi",
+    "🚕",
+    "taxi"
+  ],
+  [
+    "blue_car",
+    "🚙",
+    "sport utility vehicle"
+  ],
+  [
+    "bus",
+    "🚌",
+    "bus"
+  ],
+  [
+    "trolleybus",
+    "🚎",
+    "trolleybus"
+  ],
+  [
+    "racing_car",
+    "🏎",
+    "racing car"
+  ],
+  [
+    "police_car",
+    "🚓",
+    "police car"
+  ],
+  [
+    "ambulance",
+    "🚑",
+    "ambulance"
+  ],
+  [
+    "fire_engine",
+    "🚒",
+    "fire engine"
+  ],
+  [
+    "minibus",
+    "🚐",
+    "minibus"
+  ],
+  [
+    "truck",
+    "🚚",
+    "delivery truck"
+  ],
+  [
+    "articulated_lorry",
+    "🚛",
+    "articulated lorry"
+  ],
+  [
+    "tractor",
+    "🚜",
+    "tractor"
+  ],
+  [
+    "kick_scooter",
+    "🛴",
+    "kick scooter"
+  ],
+  [
+    "bike",
+    "🚲",
+    "bicycle"
+  ],
+  [
+    "motor_scooter",
+    "🛵",
+    "motor scooter"
+  ],
+  [
+    "motorcycle",
+    "🏍",
+    "motorcycle"
+  ],
+  [
+    "rotating_light",
+    "🚨",
+    "police car light"
+  ],
+  [
+    "oncoming_police_car",
+    "🚔",
+    "oncoming police car"
+  ],
+  [
+    "oncoming_bus",
+    "🚍",
+    "oncoming bus"
+  ],
+  [
+    "oncoming_automobile",
+    "🚘",
+    "oncoming automobile"
+  ],
+  [
+    "oncoming_taxi",
+    "🚖",
+    "oncoming taxi"
+  ],
+  [
+    "aerial_tramway",
+    "🚡",
+    "aerial tramway"
+  ],
+  [
+    "mountain_cableway",
+    "🚠",
+    "mountain cableway"
+  ],
+  [
+    "suspension_railway",
+    "🚟",
+    "suspension railway"
+  ],
+  [
+    "railway_car",
+    "🚃",
+    "railway car"
+  ],
+  [
+    "train",
+    "🚋",
+    "tram car"
+  ],
+  [
+    "mountain_railway",
+    "🚞",
+    "mountain railway"
+  ],
+  [
+    "monorail",
+    "🚝",
+    "monorail"
+  ],
+  [
+    "bullettrain_side",
+    "🚄",
+    "high-speed train"
+  ],
+  [
+    "bullettrain_front",
+    "🚅",
+    "high-speed train with bullet nose"
+  ],
+  [
+    "light_rail",
+    "🚈",
+    "light rail"
+  ],
+  [
+    "steam_locomotive",
+    "🚂",
+    "locomotive"
+  ],
+  [
+    "train2",
+    "🚆",
+    "train"
+  ],
+  [
+    "metro",
+    "🚇",
+    "metro"
+  ],
+  [
+    "tram",
+    "🚊",
+    "tram"
+  ],
+  [
+    "station",
+    "🚉",
+    "station"
+  ],
+  [
+    "helicopter",
+    "🚁",
+    "helicopter"
+  ],
+  [
+    "small_airplane",
+    "🛩",
+    "small airplane"
+  ],
+  [
+    "airplane",
+    "✈️",
+    "airplane"
+  ],
+  [
+    "flight_departure",
+    "🛫",
+    "airplane departure"
+  ],
+  [
+    "flight_arrival",
+    "🛬",
+    "airplane arrival"
+  ],
+  [
+    "rocket",
+    "🚀",
+    "rocket"
+  ],
+  [
+    "artificial_satellite",
+    "🛰",
+    "satellite"
+  ],
+  [
+    "seat",
+    "💺",
+    "seat"
+  ],
+  [
+    "canoe",
+    "🛶",
+    "canoe"
+  ],
+  [
+    "boat",
+    "⛵️",
+    "sailboat"
+  ],
+  [
+    "sailboat",
+    "⛵️",
+    "sailboat"
+  ],
+  [
+    "motor_boat",
+    "🛥",
+    "motor boat"
+  ],
+  [
+    "speedboat",
+    "🚤",
+    "speedboat"
+  ],
+  [
+    "passenger_ship",
+    "🛳",
+    "passenger ship"
+  ],
+  [
+    "ferry",
+    "⛴",
+    "ferry"
+  ],
+  [
+    "ship",
+    "🚢",
+    "ship"
+  ],
+  [
+    "anchor",
+    "⚓️",
+    "anchor"
+  ],
+  [
+    "construction",
+    "🚧",
+    "construction"
+  ],
+  [
+    "fuelpump",
+    "⛽️",
+    "fuel pump"
+  ],
+  [
+    "busstop",
+    "🚏",
+    "bus stop"
+  ],
+  [
+    "vertical_traffic_light",
+    "🚦",
+    "vertical traffic light"
+  ],
+  [
+    "traffic_light",
+    "🚥",
+    "horizontal traffic light"
+  ],
+  [
+    "world_map",
+    "🗺",
+    "world map"
+  ],
+  [
+    "moyai",
+    "🗿",
+    "moai"
+  ],
+  [
+    "statue_of_liberty",
+    "🗽",
+    "Statue of Liberty"
+  ],
+  [
+    "fountain",
+    "⛲️",
+    "fountain"
+  ],
+  [
+    "tokyo_tower",
+    "🗼",
+    "Tokyo tower"
+  ],
+  [
+    "european_castle",
+    "🏰",
+    "castle"
+  ],
+  [
+    "japanese_castle",
+    "🏯",
+    "Japanese castle"
+  ],
+  [
+    "stadium",
+    "🏟",
+    "stadium"
+  ],
+  [
+    "ferris_wheel",
+    "🎡",
+    "ferris wheel"
+  ],
+  [
+    "roller_coaster",
+    "🎢",
+    "roller coaster"
+  ],
+  [
+    "carousel_horse",
+    "🎠",
+    "carousel horse"
+  ],
+  [
+    "parasol_on_ground",
+    "⛱",
+    "umbrella on ground"
+  ],
+  [
+    "beach_umbrella",
+    "🏖",
+    "beach with umbrella"
+  ],
+  [
+    "desert_island",
+    "🏝",
+    "desert island"
+  ],
+  [
+    "mountain",
+    "⛰",
+    "mountain"
+  ],
+  [
+    "mountain_snow",
+    "🏔",
+    "snow-capped mountain"
+  ],
+  [
+    "mount_fuji",
+    "🗻",
+    "mount fuji"
+  ],
+  [
+    "volcano",
+    "🌋",
+    "volcano"
+  ],
+  [
+    "desert",
+    "🏜",
+    "desert"
+  ],
+  [
+    "camping",
+    "🏕",
+    "camping"
+  ],
+  [
+    "tent",
+    "⛺️",
+    "tent"
+  ],
+  [
+    "railway_track",
+    "🛤",
+    "railway track"
+  ],
+  [
+    "motorway",
+    "🛣",
+    "motorway"
+  ],
+  [
+    "building_construction",
+    "🏗",
+    "building construction"
+  ],
+  [
+    "factory",
+    "🏭",
+    "factory"
+  ],
+  [
+    "house",
+    "🏠",
+    "house"
+  ],
+  [
+    "house_with_garden",
+    "🏡",
+    "house with garden"
+  ],
+  [
+    "houses",
+    "🏘",
+    "house"
+  ],
+  [
+    "derelict_house",
+    "🏚",
+    "derelict house"
+  ],
+  [
+    "office",
+    "🏢",
+    "office building"
+  ],
+  [
+    "department_store",
+    "🏬",
+    "department store"
+  ],
+  [
+    "post_office",
+    "🏣",
+    "Japanese post office"
+  ],
+  [
+    "european_post_office",
+    "🏤",
+    "post office"
+  ],
+  [
+    "hospital",
+    "🏥",
+    "hospital"
+  ],
+  [
+    "bank",
+    "🏦",
+    "bank"
+  ],
+  [
+    "hotel",
+    "🏨",
+    "hotel"
+  ],
+  [
+    "convenience_store",
+    "🏪",
+    "convenience store"
+  ],
+  [
+    "school",
+    "🏫",
+    "school"
+  ],
+  [
+    "love_hotel",
+    "🏩",
+    "love hotel"
+  ],
+  [
+    "wedding",
+    "💒",
+    "wedding"
+  ],
+  [
+    "classical_building",
+    "🏛",
+    "classical building"
+  ],
+  [
+    "church",
+    "⛪️",
+    "church"
+  ],
+  [
+    "mosque",
+    "🕌",
+    "mosque"
+  ],
+  [
+    "synagogue",
+    "🕍",
+    "synagogue"
+  ],
+  [
+    "kaaba",
+    "🕋",
+    "kaaba"
+  ],
+  [
+    "shinto_shrine",
+    "⛩",
+    "shinto shrine"
+  ],
+  [
+    "japan",
+    "🗾",
+    "map of Japan"
+  ],
+  [
+    "rice_scene",
+    "🎑",
+    "moon viewing ceremony"
+  ],
+  [
+    "national_park",
+    "🏞",
+    "national park"
+  ],
+  [
+    "sunrise",
+    "🌅",
+    "sunrise"
+  ],
+  [
+    "sunrise_over_mountains",
+    "🌄",
+    "sunrise over mountains"
+  ],
+  [
+    "stars",
+    "🌠",
+    "shooting star"
+  ],
+  [
+    "sparkler",
+    "🎇",
+    "sparkler"
+  ],
+  [
+    "fireworks",
+    "🎆",
+    "fireworks"
+  ],
+  [
+    "city_sunrise",
+    "🌇",
+    "sunset"
+  ],
+  [
+    "city_sunset",
+    "🌆",
+    "cityscape at dusk"
+  ],
+  [
+    "cityscape",
+    "🏙",
+    "cityscape"
+  ],
+  [
+    "night_with_stars",
+    "🌃",
+    "night with stars"
+  ],
+  [
+    "milky_way",
+    "🌌",
+    "milky way"
+  ],
+  [
+    "bridge_at_night",
+    "🌉",
+    "bridge at night"
+  ],
+  [
+    "foggy",
+    "🌁",
+    "foggy"
+  ],
+  [
+    "watch",
+    "⌚️",
+    "watch"
+  ],
+  [
+    "iphone",
+    "📱",
+    "mobile phone"
+  ],
+  [
+    "calling",
+    "📲",
+    "mobile phone with arrow"
+  ],
+  [
+    "computer",
+    "💻",
+    "laptop computer"
+  ],
+  [
+    "keyboard",
+    "⌨️",
+    "keyboard"
+  ],
+  [
+    "desktop_computer",
+    "🖥",
+    "desktop computer"
+  ],
+  [
+    "printer",
+    "🖨",
+    "printer"
+  ],
+  [
+    "computer_mouse",
+    "🖱",
+    "computer mouse"
+  ],
+  [
+    "trackball",
+    "🖲",
+    "trackball"
+  ],
+  [
+    "joystick",
+    "🕹",
+    "joystick"
+  ],
+  [
+    "clamp",
+    "🗜",
+    "clamp"
+  ],
+  [
+    "minidisc",
+    "💽",
+    "computer disk"
+  ],
+  [
+    "floppy_disk",
+    "💾",
+    "floppy disk"
+  ],
+  [
+    "cd",
+    "💿",
+    "optical disk"
+  ],
+  [
+    "dvd",
+    "📀",
+    "dvd"
+  ],
+  [
+    "vhs",
+    "📼",
+    "videocassette"
+  ],
+  [
+    "camera",
+    "📷",
+    "camera"
+  ],
+  [
+    "camera_flash",
+    "📸",
+    "camera with flash"
+  ],
+  [
+    "video_camera",
+    "📹",
+    "video camera"
+  ],
+  [
+    "movie_camera",
+    "🎥",
+    "movie camera"
+  ],
+  [
+    "film_projector",
+    "📽",
+    "film projector"
+  ],
+  [
+    "film_strip",
+    "🎞",
+    "film frames"
+  ],
+  [
+    "telephone_receiver",
+    "📞",
+    "telephone receiver"
+  ],
+  [
+    "phone",
+    "☎️",
+    "telephone"
+  ],
+  [
+    "telephone",
+    "☎️",
+    "telephone"
+  ],
+  [
+    "pager",
+    "📟",
+    "pager"
+  ],
+  [
+    "fax",
+    "📠",
+    "fax machine"
+  ],
+  [
+    "tv",
+    "📺",
+    "television"
+  ],
+  [
+    "radio",
+    "📻",
+    "radio"
+  ],
+  [
+    "studio_microphone",
+    "🎙",
+    "studio microphone"
+  ],
+  [
+    "level_slider",
+    "🎚",
+    "level slider"
+  ],
+  [
+    "control_knobs",
+    "🎛",
+    "control knobs"
+  ],
+  [
+    "stopwatch",
+    "⏱",
+    "stopwatch"
+  ],
+  [
+    "timer_clock",
+    "⏲",
+    "timer clock"
+  ],
+  [
+    "alarm_clock",
+    "⏰",
+    "alarm clock"
+  ],
+  [
+    "mantelpiece_clock",
+    "🕰",
+    "mantelpiece clock"
+  ],
+  [
+    "hourglass",
+    "⌛️",
+    "hourglass"
+  ],
+  [
+    "hourglass_flowing_sand",
+    "⏳",
+    "hourglass with flowing sand"
+  ],
+  [
+    "satellite",
+    "📡",
+    "satellite antenna"
+  ],
+  [
+    "battery",
+    "🔋",
+    "battery"
+  ],
+  [
+    "electric_plug",
+    "🔌",
+    "electric plug"
+  ],
+  [
+    "bulb",
+    "💡",
+    "light bulb"
+  ],
+  [
+    "flashlight",
+    "🔦",
+    "flashlight"
+  ],
+  [
+    "candle",
+    "🕯",
+    "candle"
+  ],
+  [
+    "wastebasket",
+    "🗑",
+    "wastebasket"
+  ],
+  [
+    "oil_drum",
+    "🛢",
+    "oil drum"
+  ],
+  [
+    "money_with_wings",
+    "💸",
+    "money with wings"
+  ],
+  [
+    "dollar",
+    "💵",
+    "dollar banknote"
+  ],
+  [
+    "yen",
+    "💴",
+    "yen banknote"
+  ],
+  [
+    "euro",
+    "💶",
+    "euro banknote"
+  ],
+  [
+    "pound",
+    "💷",
+    "pound banknote"
+  ],
+  [
+    "moneybag",
+    "💰",
+    "money bag"
+  ],
+  [
+    "credit_card",
+    "💳",
+    "credit card"
+  ],
+  [
+    "gem",
+    "💎",
+    "gem stone"
+  ],
+  [
+    "balance_scale",
+    "⚖️",
+    "balance scale"
+  ],
+  [
+    "wrench",
+    "🔧",
+    "wrench"
+  ],
+  [
+    "hammer",
+    "🔨",
+    "hammer"
+  ],
+  [
+    "hammer_and_pick",
+    "⚒",
+    "hammer and pick"
+  ],
+  [
+    "hammer_and_wrench",
+    "🛠",
+    "hammer and wrench"
+  ],
+  [
+    "pick",
+    "⛏",
+    "pick"
+  ],
+  [
+    "nut_and_bolt",
+    "🔩",
+    "nut and bolt"
+  ],
+  [
+    "gear",
+    "⚙️",
+    "gear"
+  ],
+  [
+    "chains",
+    "⛓",
+    "chains"
+  ],
+  [
+    "gun",
+    "🔫",
+    "pistol"
+  ],
+  [
+    "bomb",
+    "💣",
+    "bomb"
+  ],
+  [
+    "hocho",
+    "🔪",
+    "kitchen knife"
+  ],
+  [
+    "knife",
+    "🔪",
+    "kitchen knife"
+  ],
+  [
+    "dagger",
+    "🗡",
+    "dagger"
+  ],
+  [
+    "crossed_swords",
+    "⚔️",
+    "crossed swords"
+  ],
+  [
+    "shield",
+    "🛡",
+    "shield"
+  ],
+  [
+    "smoking",
+    "🚬",
+    "cigarette"
+  ],
+  [
+    "coffin",
+    "⚰️",
+    "coffin"
+  ],
+  [
+    "funeral_urn",
+    "⚱️",
+    "funeral urn"
+  ],
+  [
+    "amphora",
+    "🏺",
+    "amphora"
+  ],
+  [
+    "crystal_ball",
+    "🔮",
+    "crystal ball"
+  ],
+  [
+    "prayer_beads",
+    "📿",
+    "prayer beads"
+  ],
+  [
+    "barber",
+    "💈",
+    "barber pole"
+  ],
+  [
+    "alembic",
+    "⚗️",
+    "alembic"
+  ],
+  [
+    "telescope",
+    "🔭",
+    "telescope"
+  ],
+  [
+    "microscope",
+    "🔬",
+    "microscope"
+  ],
+  [
+    "hole",
+    "🕳",
+    "hole"
+  ],
+  [
+    "pill",
+    "💊",
+    "pill"
+  ],
+  [
+    "syringe",
+    "💉",
+    "syringe"
+  ],
+  [
+    "thermometer",
+    "🌡",
+    "thermometer"
+  ],
+  [
+    "toilet",
+    "🚽",
+    "toilet"
+  ],
+  [
+    "potable_water",
+    "🚰",
+    "potable water"
+  ],
+  [
+    "shower",
+    "🚿",
+    "shower"
+  ],
+  [
+    "bathtub",
+    "🛁",
+    "bathtub"
+  ],
+  [
+    "bath",
+    "🛀",
+    "person taking bath"
+  ],
+  [
+    "bellhop_bell",
+    "🛎",
+    "bellhop bell"
+  ],
+  [
+    "key",
+    "🔑",
+    "key"
+  ],
+  [
+    "old_key",
+    "🗝",
+    "old key"
+  ],
+  [
+    "door",
+    "🚪",
+    "door"
+  ],
+  [
+    "couch_and_lamp",
+    "🛋",
+    "couch and lamp"
+  ],
+  [
+    "bed",
+    "🛏",
+    "bed"
+  ],
+  [
+    "sleeping_bed",
+    "🛌",
+    "person in bed"
+  ],
+  [
+    "framed_picture",
+    "🖼",
+    "framed picture"
+  ],
+  [
+    "shopping",
+    "🛍",
+    "shopping bags"
+  ],
+  [
+    "shopping_cart",
+    "🛒",
+    "shopping cart"
+  ],
+  [
+    "gift",
+    "🎁",
+    "wrapped gift"
+  ],
+  [
+    "balloon",
+    "🎈",
+    "balloon"
+  ],
+  [
+    "flags",
+    "🎏",
+    "carp streamer"
+  ],
+  [
+    "ribbon",
+    "🎀",
+    "ribbon"
+  ],
+  [
+    "confetti_ball",
+    "🎊",
+    "confetti ball"
+  ],
+  [
+    "tada",
+    "🎉",
+    "party popper"
+  ],
+  [
+    "dolls",
+    "🎎",
+    "Japanese dolls"
+  ],
+  [
+    "izakaya_lantern",
+    "🏮",
+    "red paper lantern"
+  ],
+  [
+    "lantern",
+    "🏮",
+    "red paper lantern"
+  ],
+  [
+    "wind_chime",
+    "🎐",
+    "wind chime"
+  ],
+  [
+    "email",
+    "✉️",
+    "envelope"
+  ],
+  [
+    "envelope",
+    "✉️",
+    "envelope"
+  ],
+  [
+    "envelope_with_arrow",
+    "📩",
+    "envelope with arrow"
+  ],
+  [
+    "incoming_envelope",
+    "📨",
+    "incoming envelope"
+  ],
+  [
+    "e-mail",
+    "📧",
+    "e-mail"
+  ],
+  [
+    "love_letter",
+    "💌",
+    "love letter"
+  ],
+  [
+    "inbox_tray",
+    "📥",
+    "inbox tray"
+  ],
+  [
+    "outbox_tray",
+    "📤",
+    "outbox tray"
+  ],
+  [
+    "package",
+    "📦",
+    "package"
+  ],
+  [
+    "label",
+    "🏷",
+    "label"
+  ],
+  [
+    "mailbox_closed",
+    "📪",
+    "closed mailbox with lowered flag"
+  ],
+  [
+    "mailbox",
+    "📫",
+    "closed mailbox with raised flag"
+  ],
+  [
+    "mailbox_with_mail",
+    "📬",
+    "open mailbox with raised flag"
+  ],
+  [
+    "mailbox_with_no_mail",
+    "📭",
+    "open mailbox with lowered flag"
+  ],
+  [
+    "postbox",
+    "📮",
+    "postbox"
+  ],
+  [
+    "postal_horn",
+    "📯",
+    "postal horn"
+  ],
+  [
+    "scroll",
+    "📜",
+    "scroll"
+  ],
+  [
+    "page_with_curl",
+    "📃",
+    "page with curl"
+  ],
+  [
+    "page_facing_up",
+    "📄",
+    "page facing up"
+  ],
+  [
+    "bookmark_tabs",
+    "📑",
+    "bookmark tabs"
+  ],
+  [
+    "bar_chart",
+    "📊",
+    "bar chart"
+  ],
+  [
+    "chart_with_upwards_trend",
+    "📈",
+    "chart increasing"
+  ],
+  [
+    "chart_with_downwards_trend",
+    "📉",
+    "chart decreasing"
+  ],
+  [
+    "spiral_notepad",
+    "🗒",
+    "spiral notepad"
+  ],
+  [
+    "spiral_calendar",
+    "🗓",
+    "spiral calendar"
+  ],
+  [
+    "calendar",
+    "📆",
+    "tear-off calendar"
+  ],
+  [
+    "date",
+    "📅",
+    "calendar"
+  ],
+  [
+    "card_index",
+    "📇",
+    "card index"
+  ],
+  [
+    "card_file_box",
+    "🗃",
+    "card file box"
+  ],
+  [
+    "ballot_box",
+    "🗳",
+    "ballot box with ballot"
+  ],
+  [
+    "file_cabinet",
+    "🗄",
+    "file cabinet"
+  ],
+  [
+    "clipboard",
+    "📋",
+    "clipboard"
+  ],
+  [
+    "file_folder",
+    "📁",
+    "file folder"
+  ],
+  [
+    "open_file_folder",
+    "📂",
+    "open file folder"
+  ],
+  [
+    "card_index_dividers",
+    "🗂",
+    "card index dividers"
+  ],
+  [
+    "newspaper_roll",
+    "🗞",
+    "rolled-up newspaper"
+  ],
+  [
+    "newspaper",
+    "📰",
+    "newspaper"
+  ],
+  [
+    "notebook",
+    "📓",
+    "notebook"
+  ],
+  [
+    "notebook_with_decorative_cover",
+    "📔",
+    "notebook with decorative cover"
+  ],
+  [
+    "ledger",
+    "📒",
+    "ledger"
+  ],
+  [
+    "closed_book",
+    "📕",
+    "closed book"
+  ],
+  [
+    "green_book",
+    "📗",
+    "green book"
+  ],
+  [
+    "blue_book",
+    "📘",
+    "blue book"
+  ],
+  [
+    "orange_book",
+    "📙",
+    "orange book"
+  ],
+  [
+    "books",
+    "📚",
+    "books"
+  ],
+  [
+    "book",
+    "📖",
+    "open book"
+  ],
+  [
+    "open_book",
+    "📖",
+    "open book"
+  ],
+  [
+    "bookmark",
+    "🔖",
+    "bookmark"
+  ],
+  [
+    "link",
+    "🔗",
+    "link"
+  ],
+  [
+    "paperclip",
+    "📎",
+    "paperclip"
+  ],
+  [
+    "paperclips",
+    "🖇",
+    "linked paperclips"
+  ],
+  [
+    "triangular_ruler",
+    "📐",
+    "triangular ruler"
+  ],
+  [
+    "straight_ruler",
+    "📏",
+    "straight ruler"
+  ],
+  [
+    "pushpin",
+    "📌",
+    "pushpin"
+  ],
+  [
+    "round_pushpin",
+    "📍",
+    "round pushpin"
+  ],
+  [
+    "scissors",
+    "✂️",
+    "scissors"
+  ],
+  [
+    "pen",
+    "🖊",
+    "pen"
+  ],
+  [
+    "fountain_pen",
+    "🖋",
+    "fountain pen"
+  ],
+  [
+    "black_nib",
+    "✒️",
+    "black nib"
+  ],
+  [
+    "paintbrush",
+    "🖌",
+    "paintbrush"
+  ],
+  [
+    "crayon",
+    "🖍",
+    "crayon"
+  ],
+  [
+    "memo",
+    "📝",
+    "memo"
+  ],
+  [
+    "pencil",
+    "📝",
+    "memo"
+  ],
+  [
+    "pencil2",
+    "✏️",
+    "pencil"
+  ],
+  [
+    "mag",
+    "🔍",
+    "left-pointing magnifying glass"
+  ],
+  [
+    "mag_right",
+    "🔎",
+    "right-pointing magnifying glass"
+  ],
+  [
+    "lock_with_ink_pen",
+    "🔏",
+    "locked with pen"
+  ],
+  [
+    "closed_lock_with_key",
+    "🔐",
+    "locked with key"
+  ],
+  [
+    "lock",
+    "🔒",
+    "locked"
+  ],
+  [
+    "unlock",
+    "🔓",
+    "unlocked"
+  ],
+  [
+    "heart",
+    "❤️",
+    "red heart"
+  ],
+  [
+    "yellow_heart",
+    "💛",
+    "yellow heart"
+  ],
+  [
+    "green_heart",
+    "💚",
+    "green heart"
+  ],
+  [
+    "blue_heart",
+    "💙",
+    "blue heart"
+  ],
+  [
+    "purple_heart",
+    "💜",
+    "purple heart"
+  ],
+  [
+    "black_heart",
+    "🖤",
+    "black heart"
+  ],
+  [
+    "broken_heart",
+    "💔",
+    "broken heart"
+  ],
+  [
+    "heavy_heart_exclamation",
+    "❣️",
+    "heavy heart exclamation"
+  ],
+  [
+    "two_hearts",
+    "💕",
+    "two hearts"
+  ],
+  [
+    "revolving_hearts",
+    "💞",
+    "revolving hearts"
+  ],
+  [
+    "heartbeat",
+    "💓",
+    "beating heart"
+  ],
+  [
+    "heartpulse",
+    "💗",
+    "growing heart"
+  ],
+  [
+    "sparkling_heart",
+    "💖",
+    "sparkling heart"
+  ],
+  [
+    "cupid",
+    "💘",
+    "heart with arrow"
+  ],
+  [
+    "gift_heart",
+    "💝",
+    "heart with ribbon"
+  ],
+  [
+    "heart_decoration",
+    "💟",
+    "heart decoration"
+  ],
+  [
+    "peace_symbol",
+    "☮️",
+    "peace symbol"
+  ],
+  [
+    "latin_cross",
+    "✝️",
+    "latin cross"
+  ],
+  [
+    "star_and_crescent",
+    "☪️",
+    "star and crescent"
+  ],
+  [
+    "om",
+    "🕉",
+    "om"
+  ],
+  [
+    "wheel_of_dharma",
+    "☸️",
+    "wheel of dharma"
+  ],
+  [
+    "star_of_david",
+    "✡️",
+    "star of David"
+  ],
+  [
+    "six_pointed_star",
+    "🔯",
+    "dotted six-pointed star"
+  ],
+  [
+    "menorah",
+    "🕎",
+    "menorah"
+  ],
+  [
+    "yin_yang",
+    "☯️",
+    "yin yang"
+  ],
+  [
+    "orthodox_cross",
+    "☦️",
+    "orthodox cross"
+  ],
+  [
+    "place_of_worship",
+    "🛐",
+    "place of worship"
+  ],
+  [
+    "ophiuchus",
+    "⛎",
+    "Ophiuchus"
+  ],
+  [
+    "aries",
+    "♈️",
+    "Aries"
+  ],
+  [
+    "taurus",
+    "♉️",
+    "Taurus"
+  ],
+  [
+    "gemini",
+    "♊️",
+    "Gemini"
+  ],
+  [
+    "cancer",
+    "♋️",
+    "Cancer"
+  ],
+  [
+    "leo",
+    "♌️",
+    "Leo"
+  ],
+  [
+    "virgo",
+    "♍️",
+    "Virgo"
+  ],
+  [
+    "libra",
+    "♎️",
+    "Libra"
+  ],
+  [
+    "scorpius",
+    "♏️",
+    "Scorpius"
+  ],
+  [
+    "sagittarius",
+    "♐️",
+    "Sagittarius"
+  ],
+  [
+    "capricorn",
+    "♑️",
+    "Capricorn"
+  ],
+  [
+    "aquarius",
+    "♒️",
+    "Aquarius"
+  ],
+  [
+    "pisces",
+    "♓️",
+    "Pisces"
+  ],
+  [
+    "id",
+    "🆔",
+    "ID button"
+  ],
+  [
+    "atom_symbol",
+    "⚛️",
+    "atom symbol"
+  ],
+  [
+    "accept",
+    "🉑",
+    "Japanese “acceptable” button"
+  ],
+  [
+    "radioactive",
+    "☢️",
+    "radioactive"
+  ],
+  [
+    "biohazard",
+    "☣️",
+    "biohazard"
+  ],
+  [
+    "mobile_phone_off",
+    "📴",
+    "mobile phone off"
+  ],
+  [
+    "vibration_mode",
+    "📳",
+    "vibration mode"
+  ],
+  [
+    "u6709",
+    "🈶",
+    "Japanese “not free of charge” button"
+  ],
+  [
+    "u7121",
+    "🈚️",
+    "Japanese “free of charge” button"
+  ],
+  [
+    "u7533",
+    "🈸",
+    "Japanese “application” button"
+  ],
+  [
+    "u55b6",
+    "🈺",
+    "Japanese “open for business” button"
+  ],
+  [
+    "u6708",
+    "🈷️",
+    "Japanese “monthly amount” button"
+  ],
+  [
+    "eight_pointed_black_star",
+    "✴️",
+    "eight-pointed star"
+  ],
+  [
+    "vs",
+    "🆚",
+    "VS button"
+  ],
+  [
+    "white_flower",
+    "💮",
+    "white flower"
+  ],
+  [
+    "ideograph_advantage",
+    "🉐",
+    "Japanese “bargain” button"
+  ],
+  [
+    "secret",
+    "㊙️",
+    "Japanese “secret” button"
+  ],
+  [
+    "congratulations",
+    "㊗️",
+    "Japanese “congratulations” button"
+  ],
+  [
+    "u5408",
+    "🈴",
+    "Japanese “passing grade” button"
+  ],
+  [
+    "u6e80",
+    "🈵",
+    "Japanese “no vacancy” button"
+  ],
+  [
+    "u5272",
+    "🈹",
+    "Japanese “discount” button"
+  ],
+  [
+    "u7981",
+    "🈲",
+    "Japanese “prohibited” button"
+  ],
+  [
+    "a",
+    "🅰️",
+    "A button (blood type)"
+  ],
+  [
+    "b",
+    "🅱️",
+    "B button (blood type)"
+  ],
+  [
+    "ab",
+    "🆎",
+    "AB button (blood type)"
+  ],
+  [
+    "cl",
+    "🆑",
+    "CL button"
+  ],
+  [
+    "o2",
+    "🅾️",
+    "O button (blood type)"
+  ],
+  [
+    "sos",
+    "🆘",
+    "SOS button"
+  ],
+  [
+    "x",
+    "❌",
+    "cross mark"
+  ],
+  [
+    "o",
+    "⭕️",
+    "heavy large circle"
+  ],
+  [
+    "stop_sign",
+    "🛑",
+    "stop sign"
+  ],
+  [
+    "no_entry",
+    "⛔️",
+    "no entry"
+  ],
+  [
+    "name_badge",
+    "📛",
+    "name badge"
+  ],
+  [
+    "no_entry_sign",
+    "🚫",
+    "prohibited"
+  ],
+  [
+    "100",
+    "💯",
+    "hundred points"
+  ],
+  [
+    "anger",
+    "💢",
+    "anger symbol"
+  ],
+  [
+    "hotsprings",
+    "♨️",
+    "hot springs"
+  ],
+  [
+    "no_pedestrians",
+    "🚷",
+    "no pedestrians"
+  ],
+  [
+    "do_not_litter",
+    "🚯",
+    "no littering"
+  ],
+  [
+    "no_bicycles",
+    "🚳",
+    "no bicycles"
+  ],
+  [
+    "non-potable_water",
+    "🚱",
+    "non-potable water"
+  ],
+  [
+    "underage",
+    "🔞",
+    "no one under eighteen"
+  ],
+  [
+    "no_mobile_phones",
+    "📵",
+    "no mobile phones"
+  ],
+  [
+    "no_smoking",
+    "🚭",
+    "no smoking"
+  ],
+  [
+    "exclamation",
+    "❗️",
+    "exclamation mark"
+  ],
+  [
+    "heavy_exclamation_mark",
+    "❗️",
+    "exclamation mark"
+  ],
+  [
+    "grey_exclamation",
+    "❕",
+    "white exclamation mark"
+  ],
+  [
+    "question",
+    "❓",
+    "question mark"
+  ],
+  [
+    "grey_question",
+    "❔",
+    "white question mark"
+  ],
+  [
+    "bangbang",
+    "‼️",
+    "double exclamation mark"
+  ],
+  [
+    "interrobang",
+    "⁉️",
+    "exclamation question mark"
+  ],
+  [
+    "low_brightness",
+    "🔅",
+    "dim button"
+  ],
+  [
+    "high_brightness",
+    "🔆",
+    "bright button"
+  ],
+  [
+    "part_alternation_mark",
+    "〽️",
+    "part alternation mark"
+  ],
+  [
+    "warning",
+    "⚠️",
+    "warning"
+  ],
+  [
+    "children_crossing",
+    "🚸",
+    "children crossing"
+  ],
+  [
+    "trident",
+    "🔱",
+    "trident emblem"
+  ],
+  [
+    "fleur_de_lis",
+    "⚜️",
+    "fleur-de-lis"
+  ],
+  [
+    "beginner",
+    "🔰",
+    "Japanese symbol for beginner"
+  ],
+  [
+    "recycle",
+    "♻️",
+    "recycling symbol"
+  ],
+  [
+    "white_check_mark",
+    "✅",
+    "white heavy check mark"
+  ],
+  [
+    "u6307",
+    "🈯️",
+    "Japanese “reserved” button"
+  ],
+  [
+    "chart",
+    "💹",
+    "chart increasing with yen"
+  ],
+  [
+    "sparkle",
+    "❇️",
+    "sparkle"
+  ],
+  [
+    "eight_spoked_asterisk",
+    "✳️",
+    "eight-spoked asterisk"
+  ],
+  [
+    "negative_squared_cross_mark",
+    "❎",
+    "cross mark button"
+  ],
+  [
+    "globe_with_meridians",
+    "🌐",
+    "globe with meridians"
+  ],
+  [
+    "diamond_shape_with_a_dot_inside",
+    "💠",
+    "diamond with a dot"
+  ],
+  [
+    "m",
+    "Ⓜ️",
+    "circled M"
+  ],
+  [
+    "cyclone",
+    "🌀",
+    "cyclone"
+  ],
+  [
+    "zzz",
+    "💤",
+    "zzz"
+  ],
+  [
+    "atm",
+    "🏧",
+    "ATM sign"
+  ],
+  [
+    "wc",
+    "🚾",
+    "water closet"
+  ],
+  [
+    "wheelchair",
+    "♿️",
+    "wheelchair symbol"
+  ],
+  [
+    "parking",
+    "🅿️",
+    "P button"
+  ],
+  [
+    "u7a7a",
+    "🈳",
+    "Japanese “vacancy” button"
+  ],
+  [
+    "sa",
+    "🈂️",
+    "Japanese “service charge” button"
+  ],
+  [
+    "passport_control",
+    "🛂",
+    "passport control"
+  ],
+  [
+    "customs",
+    "🛃",
+    "customs"
+  ],
+  [
+    "baggage_claim",
+    "🛄",
+    "baggage claim"
+  ],
+  [
+    "left_luggage",
+    "🛅",
+    "left luggage"
+  ],
+  [
+    "mens",
+    "🚹",
+    "men’s room"
+  ],
+  [
+    "womens",
+    "🚺",
+    "women’s room"
+  ],
+  [
+    "baby_symbol",
+    "🚼",
+    "baby symbol"
+  ],
+  [
+    "restroom",
+    "🚻",
+    "restroom"
+  ],
+  [
+    "put_litter_in_its_place",
+    "🚮",
+    "litter in bin sign"
+  ],
+  [
+    "cinema",
+    "🎦",
+    "cinema"
+  ],
+  [
+    "signal_strength",
+    "📶",
+    "antenna bars"
+  ],
+  [
+    "koko",
+    "🈁",
+    "Japanese “here” button"
+  ],
+  [
+    "symbols",
+    "🔣",
+    "input symbols"
+  ],
+  [
+    "information_source",
+    "ℹ️",
+    "information"
+  ],
+  [
+    "abc",
+    "🔤",
+    "input latin letters"
+  ],
+  [
+    "abcd",
+    "🔡",
+    "input latin lowercase"
+  ],
+  [
+    "capital_abcd",
+    "🔠",
+    "input latin uppercase"
+  ],
+  [
+    "ng",
+    "🆖",
+    "NG button"
+  ],
+  [
+    "ok",
+    "🆗",
+    "OK button"
+  ],
+  [
+    "up",
+    "🆙",
+    "UP! button"
+  ],
+  [
+    "cool",
+    "🆒",
+    "COOL button"
+  ],
+  [
+    "new",
+    "🆕",
+    "NEW button"
+  ],
+  [
+    "free",
+    "🆓",
+    "FREE button"
+  ],
+  [
+    "zero",
+    "0️⃣",
+    "keycap: 0"
+  ],
+  [
+    "one",
+    "1️⃣",
+    "keycap: 1"
+  ],
+  [
+    "two",
+    "2️⃣",
+    "keycap: 2"
+  ],
+  [
+    "three",
+    "3️⃣",
+    "keycap: 3"
+  ],
+  [
+    "four",
+    "4️⃣",
+    "keycap: 4"
+  ],
+  [
+    "five",
+    "5️⃣",
+    "keycap: 5"
+  ],
+  [
+    "six",
+    "6️⃣",
+    "keycap: 6"
+  ],
+  [
+    "seven",
+    "7️⃣",
+    "keycap: 7"
+  ],
+  [
+    "eight",
+    "8️⃣",
+    "keycap: 8"
+  ],
+  [
+    "nine",
+    "9️⃣",
+    "keycap: 9"
+  ],
+  [
+    "keycap_ten",
+    "🔟",
+    "keycap 10"
+  ],
+  [
+    "1234",
+    "🔢",
+    "input numbers"
+  ],
+  [
+    "hash",
+    "#️⃣",
+    "keycap: #"
+  ],
+  [
+    "asterisk",
+    "*️⃣",
+    "keycap: *"
+  ],
+  [
+    "arrow_forward",
+    "▶️",
+    "play button"
+  ],
+  [
+    "pause_button",
+    "⏸",
+    "pause button"
+  ],
+  [
+    "play_or_pause_button",
+    "⏯",
+    "play or pause button"
+  ],
+  [
+    "stop_button",
+    "⏹",
+    "stop button"
+  ],
+  [
+    "record_button",
+    "⏺",
+    "record button"
+  ],
+  [
+    "next_track_button",
+    "⏭",
+    "next track button"
+  ],
+  [
+    "previous_track_button",
+    "⏮",
+    "last track button"
+  ],
+  [
+    "fast_forward",
+    "⏩",
+    "fast-forward button"
+  ],
+  [
+    "rewind",
+    "⏪",
+    "fast reverse button"
+  ],
+  [
+    "arrow_double_up",
+    "⏫",
+    "fast up button"
+  ],
+  [
+    "arrow_double_down",
+    "⏬",
+    "fast down button"
+  ],
+  [
+    "arrow_backward",
+    "◀️",
+    "reverse button"
+  ],
+  [
+    "arrow_up_small",
+    "🔼",
+    "up button"
+  ],
+  [
+    "arrow_down_small",
+    "🔽",
+    "down button"
+  ],
+  [
+    "arrow_right",
+    "➡️",
+    "right arrow"
+  ],
+  [
+    "arrow_left",
+    "⬅️",
+    "left arrow"
+  ],
+  [
+    "arrow_up",
+    "⬆️",
+    "up arrow"
+  ],
+  [
+    "arrow_down",
+    "⬇️",
+    "down arrow"
+  ],
+  [
+    "arrow_upper_right",
+    "↗️",
+    "up-right arrow"
+  ],
+  [
+    "arrow_lower_right",
+    "↘️",
+    "down-right arrow"
+  ],
+  [
+    "arrow_lower_left",
+    "↙️",
+    "down-left arrow"
+  ],
+  [
+    "arrow_upper_left",
+    "↖️",
+    "up-left arrow"
+  ],
+  [
+    "arrow_up_down",
+    "↕️",
+    "up-down arrow"
+  ],
+  [
+    "left_right_arrow",
+    "↔️",
+    "left-right arrow"
+  ],
+  [
+    "arrow_right_hook",
+    "↪️",
+    "left arrow curving right"
+  ],
+  [
+    "leftwards_arrow_with_hook",
+    "↩️",
+    "right arrow curving left"
+  ],
+  [
+    "arrow_heading_up",
+    "⤴️",
+    "right arrow curving up"
+  ],
+  [
+    "arrow_heading_down",
+    "⤵️",
+    "right arrow curving down"
+  ],
+  [
+    "twisted_rightwards_arrows",
+    "🔀",
+    "shuffle tracks button"
+  ],
+  [
+    "repeat",
+    "🔁",
+    "repeat button"
+  ],
+  [
+    "repeat_one",
+    "🔂",
+    "repeat single button"
+  ],
+  [
+    "arrows_counterclockwise",
+    "🔄",
+    "anticlockwise arrows button"
+  ],
+  [
+    "arrows_clockwise",
+    "🔃",
+    "clockwise vertical arrows"
+  ],
+  [
+    "musical_note",
+    "🎵",
+    "musical note"
+  ],
+  [
+    "notes",
+    "🎶",
+    "musical notes"
+  ],
+  [
+    "heavy_plus_sign",
+    "➕",
+    "heavy plus sign"
+  ],
+  [
+    "heavy_minus_sign",
+    "➖",
+    "heavy minus sign"
+  ],
+  [
+    "heavy_division_sign",
+    "➗",
+    "heavy division sign"
+  ],
+  [
+    "heavy_multiplication_x",
+    "✖️",
+    "heavy multiplication x"
+  ],
+  [
+    "heavy_dollar_sign",
+    "💲",
+    "heavy dollar sign"
+  ],
+  [
+    "currency_exchange",
+    "💱",
+    "currency exchange"
+  ],
+  [
+    "tm",
+    "™️",
+    "trade mark"
+  ],
+  [
+    "copyright",
+    "©️",
+    "copyright"
+  ],
+  [
+    "registered",
+    "®️",
+    "registered"
+  ],
+  [
+    "wavy_dash",
+    "〰️",
+    "wavy dash"
+  ],
+  [
+    "curly_loop",
+    "➰",
+    "curly loop"
+  ],
+  [
+    "loop",
+    "➿",
+    "double curly loop"
+  ],
+  [
+    "end",
+    "🔚",
+    "END arrow"
+  ],
+  [
+    "back",
+    "🔙",
+    "BACK arrow"
+  ],
+  [
+    "on",
+    "🔛",
+    "ON! arrow"
+  ],
+  [
+    "top",
+    "🔝",
+    "TOP arrow"
+  ],
+  [
+    "soon",
+    "🔜",
+    "SOON arrow"
+  ],
+  [
+    "heavy_check_mark",
+    "✔️",
+    "heavy check mark"
+  ],
+  [
+    "ballot_box_with_check",
+    "☑️",
+    "ballot box with check"
+  ],
+  [
+    "radio_button",
+    "🔘",
+    "radio button"
+  ],
+  [
+    "white_circle",
+    "⚪️",
+    "white circle"
+  ],
+  [
+    "black_circle",
+    "⚫️",
+    "black circle"
+  ],
+  [
+    "red_circle",
+    "🔴",
+    "red circle"
+  ],
+  [
+    "large_blue_circle",
+    "🔵",
+    "blue circle"
+  ],
+  [
+    "small_red_triangle",
+    "🔺",
+    "red triangle pointed up"
+  ],
+  [
+    "small_red_triangle_down",
+    "🔻",
+    "red triangle pointed down"
+  ],
+  [
+    "small_orange_diamond",
+    "🔸",
+    "small orange diamond"
+  ],
+  [
+    "small_blue_diamond",
+    "🔹",
+    "small blue diamond"
+  ],
+  [
+    "large_orange_diamond",
+    "🔶",
+    "large orange diamond"
+  ],
+  [
+    "large_blue_diamond",
+    "🔷",
+    "large blue diamond"
+  ],
+  [
+    "white_square_button",
+    "🔳",
+    "white square button"
+  ],
+  [
+    "black_square_button",
+    "🔲",
+    "black square button"
+  ],
+  [
+    "black_small_square",
+    "▪️",
+    "black small square"
+  ],
+  [
+    "white_small_square",
+    "▫️",
+    "white small square"
+  ],
+  [
+    "black_medium_small_square",
+    "◾️",
+    "black medium-small square"
+  ],
+  [
+    "white_medium_small_square",
+    "◽️",
+    "white medium-small square"
+  ],
+  [
+    "black_medium_square",
+    "◼️",
+    "black medium square"
+  ],
+  [
+    "white_medium_square",
+    "◻️",
+    "white medium square"
+  ],
+  [
+    "black_large_square",
+    "⬛️",
+    "black large square"
+  ],
+  [
+    "white_large_square",
+    "⬜️",
+    "white large square"
+  ],
+  [
+    "speaker",
+    "🔈",
+    "speaker low volume"
+  ],
+  [
+    "mute",
+    "🔇",
+    "muted speaker"
+  ],
+  [
+    "sound",
+    "🔉",
+    "speaker medium volume"
+  ],
+  [
+    "loud_sound",
+    "🔊",
+    "speaker high volume"
+  ],
+  [
+    "bell",
+    "🔔",
+    "bell"
+  ],
+  [
+    "no_bell",
+    "🔕",
+    "bell with slash"
+  ],
+  [
+    "mega",
+    "📣",
+    "megaphone"
+  ],
+  [
+    "loudspeaker",
+    "📢",
+    "loudspeaker"
+  ],
+  [
+    "eye_speech_bubble",
+    "👁‍🗨",
+    "eye in speech bubble"
+  ],
+  [
+    "speech_balloon",
+    "💬",
+    "speech balloon"
+  ],
+  [
+    "thought_balloon",
+    "💭",
+    "thought balloon"
+  ],
+  [
+    "right_anger_bubble",
+    "🗯",
+    "right anger bubble"
+  ],
+  [
+    "spades",
+    "♠️",
+    "spade suit"
+  ],
+  [
+    "clubs",
+    "♣️",
+    "club suit"
+  ],
+  [
+    "hearts",
+    "♥️",
+    "heart suit"
+  ],
+  [
+    "diamonds",
+    "♦️",
+    "diamond suit"
+  ],
+  [
+    "black_joker",
+    "🃏",
+    "joker"
+  ],
+  [
+    "flower_playing_cards",
+    "🎴",
+    "flower playing cards"
+  ],
+  [
+    "mahjong",
+    "🀄️",
+    "mahjong red dragon"
+  ],
+  [
+    "clock1",
+    "🕐",
+    "one o’clock"
+  ],
+  [
+    "clock2",
+    "🕑",
+    "two o’clock"
+  ],
+  [
+    "clock3",
+    "🕒",
+    "three o’clock"
+  ],
+  [
+    "clock4",
+    "🕓",
+    "four o’clock"
+  ],
+  [
+    "clock5",
+    "🕔",
+    "five o’clock"
+  ],
+  [
+    "clock6",
+    "🕕",
+    "six o’clock"
+  ],
+  [
+    "clock7",
+    "🕖",
+    "seven o’clock"
+  ],
+  [
+    "clock8",
+    "🕗",
+    "eight o’clock"
+  ],
+  [
+    "clock9",
+    "🕘",
+    "nine o’clock"
+  ],
+  [
+    "clock10",
+    "🕙",
+    "ten o’clock"
+  ],
+  [
+    "clock11",
+    "🕚",
+    "eleven o’clock"
+  ],
+  [
+    "clock12",
+    "🕛",
+    "twelve o’clock"
+  ],
+  [
+    "clock130",
+    "🕜",
+    "one-thirty"
+  ],
+  [
+    "clock230",
+    "🕝",
+    "two-thirty"
+  ],
+  [
+    "clock330",
+    "🕞",
+    "three-thirty"
+  ],
+  [
+    "clock430",
+    "🕟",
+    "four-thirty"
+  ],
+  [
+    "clock530",
+    "🕠",
+    "five-thirty"
+  ],
+  [
+    "clock630",
+    "🕡",
+    "six-thirty"
+  ],
+  [
+    "clock730",
+    "🕢",
+    "seven-thirty"
+  ],
+  [
+    "clock830",
+    "🕣",
+    "eight-thirty"
+  ],
+  [
+    "clock930",
+    "🕤",
+    "nine-thirty"
+  ],
+  [
+    "clock1030",
+    "🕥",
+    "ten-thirty"
+  ],
+  [
+    "clock1130",
+    "🕦",
+    "eleven-thirty"
+  ],
+  [
+    "clock1230",
+    "🕧",
+    "twelve-thirty"
+  ],
+  [
+    "white_flag",
+    "🏳️",
+    "white flag"
+  ],
+  [
+    "black_flag",
+    "🏴",
+    "black flag"
+  ],
+  [
+    "checkered_flag",
+    "🏁",
+    "chequered flag"
+  ],
+  [
+    "triangular_flag_on_post",
+    "🚩",
+    "triangular flag"
+  ],
+  [
+    "rainbow_flag",
+    "🏳️‍🌈",
+    "rainbow flag"
+  ],
+  [
+    "afghanistan",
+    "🇦🇫",
+    "Afghanistan"
+  ],
+  [
+    "aland_islands",
+    "🇦🇽",
+    "Åland Islands"
+  ],
+  [
+    "albania",
+    "🇦🇱",
+    "Albania"
+  ],
+  [
+    "algeria",
+    "🇩🇿",
+    "Algeria"
+  ],
+  [
+    "american_samoa",
+    "🇦🇸",
+    "American Samoa"
+  ],
+  [
+    "andorra",
+    "🇦🇩",
+    "Andorra"
+  ],
+  [
+    "angola",
+    "🇦🇴",
+    "Angola"
+  ],
+  [
+    "anguilla",
+    "🇦🇮",
+    "Anguilla"
+  ],
+  [
+    "antarctica",
+    "🇦🇶",
+    "Antarctica"
+  ],
+  [
+    "antigua_barbuda",
+    "🇦🇬",
+    "Antigua & Barbuda"
+  ],
+  [
+    "argentina",
+    "🇦🇷",
+    "Argentina"
+  ],
+  [
+    "armenia",
+    "🇦🇲",
+    "Armenia"
+  ],
+  [
+    "aruba",
+    "🇦🇼",
+    "Aruba"
+  ],
+  [
+    "australia",
+    "🇦🇺",
+    "Australia"
+  ],
+  [
+    "austria",
+    "🇦🇹",
+    "Austria"
+  ],
+  [
+    "azerbaijan",
+    "🇦🇿",
+    "Azerbaijan"
+  ],
+  [
+    "bahamas",
+    "🇧🇸",
+    "Bahamas"
+  ],
+  [
+    "bahrain",
+    "🇧🇭",
+    "Bahrain"
+  ],
+  [
+    "bangladesh",
+    "🇧🇩",
+    "Bangladesh"
+  ],
+  [
+    "barbados",
+    "🇧🇧",
+    "Barbados"
+  ],
+  [
+    "belarus",
+    "🇧🇾",
+    "Belarus"
+  ],
+  [
+    "belgium",
+    "🇧🇪",
+    "Belgium"
+  ],
+  [
+    "belize",
+    "🇧🇿",
+    "Belize"
+  ],
+  [
+    "benin",
+    "🇧🇯",
+    "Benin"
+  ],
+  [
+    "bermuda",
+    "🇧🇲",
+    "Bermuda"
+  ],
+  [
+    "bhutan",
+    "🇧🇹",
+    "Bhutan"
+  ],
+  [
+    "bolivia",
+    "🇧🇴",
+    "Bolivia"
+  ],
+  [
+    "caribbean_netherlands",
+    "🇧🇶",
+    "Caribbean Netherlands"
+  ],
+  [
+    "bosnia_herzegovina",
+    "🇧🇦",
+    "Bosnia & Herzegovina"
+  ],
+  [
+    "botswana",
+    "🇧🇼",
+    "Botswana"
+  ],
+  [
+    "brazil",
+    "🇧🇷",
+    "Brazil"
+  ],
+  [
+    "british_indian_ocean_territory",
+    "🇮🇴",
+    "British Indian Ocean Territory"
+  ],
+  [
+    "british_virgin_islands",
+    "🇻🇬",
+    "British Virgin Islands"
+  ],
+  [
+    "brunei",
+    "🇧🇳",
+    "Brunei"
+  ],
+  [
+    "bulgaria",
+    "🇧🇬",
+    "Bulgaria"
+  ],
+  [
+    "burkina_faso",
+    "🇧🇫",
+    "Burkina Faso"
+  ],
+  [
+    "burundi",
+    "🇧🇮",
+    "Burundi"
+  ],
+  [
+    "cape_verde",
+    "🇨🇻",
+    "Cape Verde"
+  ],
+  [
+    "cambodia",
+    "🇰🇭",
+    "Cambodia"
+  ],
+  [
+    "cameroon",
+    "🇨🇲",
+    "Cameroon"
+  ],
+  [
+    "canada",
+    "🇨🇦",
+    "Canada"
+  ],
+  [
+    "canary_islands",
+    "🇮🇨",
+    "Canary Islands"
+  ],
+  [
+    "cayman_islands",
+    "🇰🇾",
+    "Cayman Islands"
+  ],
+  [
+    "central_african_republic",
+    "🇨🇫",
+    "Central African Republic"
+  ],
+  [
+    "chad",
+    "🇹🇩",
+    "Chad"
+  ],
+  [
+    "chile",
+    "🇨🇱",
+    "Chile"
+  ],
+  [
+    "cn",
+    "🇨🇳",
+    "China"
+  ],
+  [
+    "christmas_island",
+    "🇨🇽",
+    "Christmas Island"
+  ],
+  [
+    "cocos_islands",
+    "🇨🇨",
+    "Cocos (Keeling) Islands"
+  ],
+  [
+    "colombia",
+    "🇨🇴",
+    "Colombia"
+  ],
+  [
+    "comoros",
+    "🇰🇲",
+    "Comoros"
+  ],
+  [
+    "congo_brazzaville",
+    "🇨🇬",
+    "Congo - Brazzaville"
+  ],
+  [
+    "congo_kinshasa",
+    "🇨🇩",
+    "Congo - Kinshasa"
+  ],
+  [
+    "cook_islands",
+    "🇨🇰",
+    "Cook Islands"
+  ],
+  [
+    "costa_rica",
+    "🇨🇷",
+    "Costa Rica"
+  ],
+  [
+    "cote_divoire",
+    "🇨🇮",
+    "Côte d’Ivoire"
+  ],
+  [
+    "croatia",
+    "🇭🇷",
+    "Croatia"
+  ],
+  [
+    "cuba",
+    "🇨🇺",
+    "Cuba"
+  ],
+  [
+    "curacao",
+    "🇨🇼",
+    "Curaçao"
+  ],
+  [
+    "cyprus",
+    "🇨🇾",
+    "Cyprus"
+  ],
+  [
+    "czech_republic",
+    "🇨🇿",
+    "Czech Republic"
+  ],
+  [
+    "denmark",
+    "🇩🇰",
+    "Denmark"
+  ],
+  [
+    "djibouti",
+    "🇩🇯",
+    "Djibouti"
+  ],
+  [
+    "dominica",
+    "🇩🇲",
+    "Dominica"
+  ],
+  [
+    "dominican_republic",
+    "🇩🇴",
+    "Dominican Republic"
+  ],
+  [
+    "ecuador",
+    "🇪🇨",
+    "Ecuador"
+  ],
+  [
+    "egypt",
+    "🇪🇬",
+    "Egypt"
+  ],
+  [
+    "el_salvador",
+    "🇸🇻",
+    "El Salvador"
+  ],
+  [
+    "equatorial_guinea",
+    "🇬🇶",
+    "Equatorial Guinea"
+  ],
+  [
+    "eritrea",
+    "🇪🇷",
+    "Eritrea"
+  ],
+  [
+    "estonia",
+    "🇪🇪",
+    "Estonia"
+  ],
+  [
+    "ethiopia",
+    "🇪🇹",
+    "Ethiopia"
+  ],
+  [
+    "eu",
+    "🇪🇺",
+    "European Union"
+  ],
+  [
+    "european_union",
+    "🇪🇺",
+    "European Union"
+  ],
+  [
+    "falkland_islands",
+    "🇫🇰",
+    "Falkland Islands"
+  ],
+  [
+    "faroe_islands",
+    "🇫🇴",
+    "Faroe Islands"
+  ],
+  [
+    "fiji",
+    "🇫🇯",
+    "Fiji"
+  ],
+  [
+    "finland",
+    "🇫🇮",
+    "Finland"
+  ],
+  [
+    "fr",
+    "🇫🇷",
+    "France"
+  ],
+  [
+    "french_guiana",
+    "🇬🇫",
+    "French Guiana"
+  ],
+  [
+    "french_polynesia",
+    "🇵🇫",
+    "French Polynesia"
+  ],
+  [
+    "french_southern_territories",
+    "🇹🇫",
+    "French Southern Territories"
+  ],
+  [
+    "gabon",
+    "🇬🇦",
+    "Gabon"
+  ],
+  [
+    "gambia",
+    "🇬🇲",
+    "Gambia"
+  ],
+  [
+    "georgia",
+    "🇬🇪",
+    "Georgia"
+  ],
+  [
+    "de",
+    "🇩🇪",
+    "Germany"
+  ],
+  [
+    "ghana",
+    "🇬🇭",
+    "Ghana"
+  ],
+  [
+    "gibraltar",
+    "🇬🇮",
+    "Gibraltar"
+  ],
+  [
+    "greece",
+    "🇬🇷",
+    "Greece"
+  ],
+  [
+    "greenland",
+    "🇬🇱",
+    "Greenland"
+  ],
+  [
+    "grenada",
+    "🇬🇩",
+    "Grenada"
+  ],
+  [
+    "guadeloupe",
+    "🇬🇵",
+    "Guadeloupe"
+  ],
+  [
+    "guam",
+    "🇬🇺",
+    "Guam"
+  ],
+  [
+    "guatemala",
+    "🇬🇹",
+    "Guatemala"
+  ],
+  [
+    "guernsey",
+    "🇬🇬",
+    "Guernsey"
+  ],
+  [
+    "guinea",
+    "🇬🇳",
+    "Guinea"
+  ],
+  [
+    "guinea_bissau",
+    "🇬🇼",
+    "Guinea-Bissau"
+  ],
+  [
+    "guyana",
+    "🇬🇾",
+    "Guyana"
+  ],
+  [
+    "haiti",
+    "🇭🇹",
+    "Haiti"
+  ],
+  [
+    "honduras",
+    "🇭🇳",
+    "Honduras"
+  ],
+  [
+    "hong_kong",
+    "🇭🇰",
+    "Hong Kong SAR China"
+  ],
+  [
+    "hungary",
+    "🇭🇺",
+    "Hungary"
+  ],
+  [
+    "iceland",
+    "🇮🇸",
+    "Iceland"
+  ],
+  [
+    "india",
+    "🇮🇳",
+    "India"
+  ],
+  [
+    "indonesia",
+    "🇮🇩",
+    "Indonesia"
+  ],
+  [
+    "iran",
+    "🇮🇷",
+    "Iran"
+  ],
+  [
+    "iraq",
+    "🇮🇶",
+    "Iraq"
+  ],
+  [
+    "ireland",
+    "🇮🇪",
+    "Ireland"
+  ],
+  [
+    "isle_of_man",
+    "🇮🇲",
+    "Isle of Man"
+  ],
+  [
+    "israel",
+    "🇮🇱",
+    "Israel"
+  ],
+  [
+    "it",
+    "🇮🇹",
+    "Italy"
+  ],
+  [
+    "jamaica",
+    "🇯🇲",
+    "Jamaica"
+  ],
+  [
+    "jp",
+    "🇯🇵",
+    "Japan"
+  ],
+  [
+    "crossed_flags",
+    "🎌",
+    "crossed flags"
+  ],
+  [
+    "jersey",
+    "🇯🇪",
+    "Jersey"
+  ],
+  [
+    "jordan",
+    "🇯🇴",
+    "Jordan"
+  ],
+  [
+    "kazakhstan",
+    "🇰🇿",
+    "Kazakhstan"
+  ],
+  [
+    "kenya",
+    "🇰🇪",
+    "Kenya"
+  ],
+  [
+    "kiribati",
+    "🇰🇮",
+    "Kiribati"
+  ],
+  [
+    "kosovo",
+    "🇽🇰",
+    "Kosovo"
+  ],
+  [
+    "kuwait",
+    "🇰🇼",
+    "Kuwait"
+  ],
+  [
+    "kyrgyzstan",
+    "🇰🇬",
+    "Kyrgyzstan"
+  ],
+  [
+    "laos",
+    "🇱🇦",
+    "Laos"
+  ],
+  [
+    "latvia",
+    "🇱🇻",
+    "Latvia"
+  ],
+  [
+    "lebanon",
+    "🇱🇧",
+    "Lebanon"
+  ],
+  [
+    "lesotho",
+    "🇱🇸",
+    "Lesotho"
+  ],
+  [
+    "liberia",
+    "🇱🇷",
+    "Liberia"
+  ],
+  [
+    "libya",
+    "🇱🇾",
+    "Libya"
+  ],
+  [
+    "liechtenstein",
+    "🇱🇮",
+    "Liechtenstein"
+  ],
+  [
+    "lithuania",
+    "🇱🇹",
+    "Lithuania"
+  ],
+  [
+    "luxembourg",
+    "🇱🇺",
+    "Luxembourg"
+  ],
+  [
+    "macau",
+    "🇲🇴",
+    "Macau SAR China"
+  ],
+  [
+    "macedonia",
+    "🇲🇰",
+    "Macedonia"
+  ],
+  [
+    "madagascar",
+    "🇲🇬",
+    "Madagascar"
+  ],
+  [
+    "malawi",
+    "🇲🇼",
+    "Malawi"
+  ],
+  [
+    "malaysia",
+    "🇲🇾",
+    "Malaysia"
+  ],
+  [
+    "maldives",
+    "🇲🇻",
+    "Maldives"
+  ],
+  [
+    "mali",
+    "🇲🇱",
+    "Mali"
+  ],
+  [
+    "malta",
+    "🇲🇹",
+    "Malta"
+  ],
+  [
+    "marshall_islands",
+    "🇲🇭",
+    "Marshall Islands"
+  ],
+  [
+    "martinique",
+    "🇲🇶",
+    "Martinique"
+  ],
+  [
+    "mauritania",
+    "🇲🇷",
+    "Mauritania"
+  ],
+  [
+    "mauritius",
+    "🇲🇺",
+    "Mauritius"
+  ],
+  [
+    "mayotte",
+    "🇾🇹",
+    "Mayotte"
+  ],
+  [
+    "mexico",
+    "🇲🇽",
+    "Mexico"
+  ],
+  [
+    "micronesia",
+    "🇫🇲",
+    "Micronesia"
+  ],
+  [
+    "moldova",
+    "🇲🇩",
+    "Moldova"
+  ],
+  [
+    "monaco",
+    "🇲🇨",
+    "Monaco"
+  ],
+  [
+    "mongolia",
+    "🇲🇳",
+    "Mongolia"
+  ],
+  [
+    "montenegro",
+    "🇲🇪",
+    "Montenegro"
+  ],
+  [
+    "montserrat",
+    "🇲🇸",
+    "Montserrat"
+  ],
+  [
+    "morocco",
+    "🇲🇦",
+    "Morocco"
+  ],
+  [
+    "mozambique",
+    "🇲🇿",
+    "Mozambique"
+  ],
+  [
+    "myanmar",
+    "🇲🇲",
+    "Myanmar (Burma)"
+  ],
+  [
+    "namibia",
+    "🇳🇦",
+    "Namibia"
+  ],
+  [
+    "nauru",
+    "🇳🇷",
+    "Nauru"
+  ],
+  [
+    "nepal",
+    "🇳🇵",
+    "Nepal"
+  ],
+  [
+    "netherlands",
+    "🇳🇱",
+    "Netherlands"
+  ],
+  [
+    "new_caledonia",
+    "🇳🇨",
+    "New Caledonia"
+  ],
+  [
+    "new_zealand",
+    "🇳🇿",
+    "New Zealand"
+  ],
+  [
+    "nicaragua",
+    "🇳🇮",
+    "Nicaragua"
+  ],
+  [
+    "niger",
+    "🇳🇪",
+    "Niger"
+  ],
+  [
+    "nigeria",
+    "🇳🇬",
+    "Nigeria"
+  ],
+  [
+    "niue",
+    "🇳🇺",
+    "Niue"
+  ],
+  [
+    "norfolk_island",
+    "🇳🇫",
+    "Norfolk Island"
+  ],
+  [
+    "northern_mariana_islands",
+    "🇲🇵",
+    "Northern Mariana Islands"
+  ],
+  [
+    "north_korea",
+    "🇰🇵",
+    "North Korea"
+  ],
+  [
+    "norway",
+    "🇳🇴",
+    "Norway"
+  ],
+  [
+    "oman",
+    "🇴🇲",
+    "Oman"
+  ],
+  [
+    "pakistan",
+    "🇵🇰",
+    "Pakistan"
+  ],
+  [
+    "palau",
+    "🇵🇼",
+    "Palau"
+  ],
+  [
+    "palestinian_territories",
+    "🇵🇸",
+    "Palestinian Territories"
+  ],
+  [
+    "panama",
+    "🇵🇦",
+    "Panama"
+  ],
+  [
+    "papua_new_guinea",
+    "🇵🇬",
+    "Papua New Guinea"
+  ],
+  [
+    "paraguay",
+    "🇵🇾",
+    "Paraguay"
+  ],
+  [
+    "peru",
+    "🇵🇪",
+    "Peru"
+  ],
+  [
+    "philippines",
+    "🇵🇭",
+    "Philippines"
+  ],
+  [
+    "pitcairn_islands",
+    "🇵🇳",
+    "Pitcairn Islands"
+  ],
+  [
+    "poland",
+    "🇵🇱",
+    "Poland"
+  ],
+  [
+    "portugal",
+    "🇵🇹",
+    "Portugal"
+  ],
+  [
+    "puerto_rico",
+    "🇵🇷",
+    "Puerto Rico"
+  ],
+  [
+    "qatar",
+    "🇶🇦",
+    "Qatar"
+  ],
+  [
+    "reunion",
+    "🇷🇪",
+    "Réunion"
+  ],
+  [
+    "romania",
+    "🇷🇴",
+    "Romania"
+  ],
+  [
+    "ru",
+    "🇷🇺",
+    "Russia"
+  ],
+  [
+    "rwanda",
+    "🇷🇼",
+    "Rwanda"
+  ],
+  [
+    "st_barthelemy",
+    "🇧🇱",
+    "St. Barthélemy"
+  ],
+  [
+    "st_helena",
+    "🇸🇭",
+    "St. Helena"
+  ],
+  [
+    "st_kitts_nevis",
+    "🇰🇳",
+    "St. Kitts & Nevis"
+  ],
+  [
+    "st_lucia",
+    "🇱🇨",
+    "St. Lucia"
+  ],
+  [
+    "st_pierre_miquelon",
+    "🇵🇲",
+    "St. Pierre & Miquelon"
+  ],
+  [
+    "st_vincent_grenadines",
+    "🇻🇨",
+    "St. Vincent & Grenadines"
+  ],
+  [
+    "samoa",
+    "🇼🇸",
+    "Samoa"
+  ],
+  [
+    "san_marino",
+    "🇸🇲",
+    "San Marino"
+  ],
+  [
+    "sao_tome_principe",
+    "🇸🇹",
+    "São Tomé & Príncipe"
+  ],
+  [
+    "saudi_arabia",
+    "🇸🇦",
+    "Saudi Arabia"
+  ],
+  [
+    "senegal",
+    "🇸🇳",
+    "Senegal"
+  ],
+  [
+    "serbia",
+    "🇷🇸",
+    "Serbia"
+  ],
+  [
+    "seychelles",
+    "🇸🇨",
+    "Seychelles"
+  ],
+  [
+    "sierra_leone",
+    "🇸🇱",
+    "Sierra Leone"
+  ],
+  [
+    "singapore",
+    "🇸🇬",
+    "Singapore"
+  ],
+  [
+    "sint_maarten",
+    "🇸🇽",
+    "Sint Maarten"
+  ],
+  [
+    "slovakia",
+    "🇸🇰",
+    "Slovakia"
+  ],
+  [
+    "slovenia",
+    "🇸🇮",
+    "Slovenia"
+  ],
+  [
+    "solomon_islands",
+    "🇸🇧",
+    "Solomon Islands"
+  ],
+  [
+    "somalia",
+    "🇸🇴",
+    "Somalia"
+  ],
+  [
+    "south_africa",
+    "🇿🇦",
+    "South Africa"
+  ],
+  [
+    "south_georgia_south_sandwich_islands",
+    "🇬🇸",
+    "South Georgia & South Sandwich Islands"
+  ],
+  [
+    "kr",
+    "🇰🇷",
+    "South Korea"
+  ],
+  [
+    "south_sudan",
+    "🇸🇸",
+    "South Sudan"
+  ],
+  [
+    "es",
+    "🇪🇸",
+    "Spain"
+  ],
+  [
+    "sri_lanka",
+    "🇱🇰",
+    "Sri Lanka"
+  ],
+  [
+    "sudan",
+    "🇸🇩",
+    "Sudan"
+  ],
+  [
+    "suriname",
+    "🇸🇷",
+    "Suriname"
+  ],
+  [
+    "swaziland",
+    "🇸🇿",
+    "Swaziland"
+  ],
+  [
+    "sweden",
+    "🇸🇪",
+    "Sweden"
+  ],
+  [
+    "switzerland",
+    "🇨🇭",
+    "Switzerland"
+  ],
+  [
+    "syria",
+    "🇸🇾",
+    "Syria"
+  ],
+  [
+    "taiwan",
+    "🇹🇼",
+    "Taiwan"
+  ],
+  [
+    "tajikistan",
+    "🇹🇯",
+    "Tajikistan"
+  ],
+  [
+    "tanzania",
+    "🇹🇿",
+    "Tanzania"
+  ],
+  [
+    "thailand",
+    "🇹🇭",
+    "Thailand"
+  ],
+  [
+    "timor_leste",
+    "🇹🇱",
+    "Timor-Leste"
+  ],
+  [
+    "togo",
+    "🇹🇬",
+    "Togo"
+  ],
+  [
+    "tokelau",
+    "🇹🇰",
+    "Tokelau"
+  ],
+  [
+    "tonga",
+    "🇹🇴",
+    "Tonga"
+  ],
+  [
+    "trinidad_tobago",
+    "🇹🇹",
+    "Trinidad & Tobago"
+  ],
+  [
+    "tunisia",
+    "🇹🇳",
+    "Tunisia"
+  ],
+  [
+    "tr",
+    "🇹🇷",
+    "Turkey"
+  ],
+  [
+    "turkmenistan",
+    "🇹🇲",
+    "Turkmenistan"
+  ],
+  [
+    "turks_caicos_islands",
+    "🇹🇨",
+    "Turks & Caicos Islands"
+  ],
+  [
+    "tuvalu",
+    "🇹🇻",
+    "Tuvalu"
+  ],
+  [
+    "uganda",
+    "🇺🇬",
+    "Uganda"
+  ],
+  [
+    "ukraine",
+    "🇺🇦",
+    "Ukraine"
+  ],
+  [
+    "united_arab_emirates",
+    "🇦🇪",
+    "United Arab Emirates"
+  ],
+  [
+    "gb",
+    "🇬🇧",
+    "United Kingdom"
+  ],
+  [
+    "uk",
+    "🇬🇧",
+    "United Kingdom"
+  ],
+  [
+    "us",
+    "🇺🇸",
+    "United States"
+  ],
+  [
+    "us_virgin_islands",
+    "🇻🇮",
+    "U.S. Virgin Islands"
+  ],
+  [
+    "uruguay",
+    "🇺🇾",
+    "Uruguay"
+  ],
+  [
+    "uzbekistan",
+    "🇺🇿",
+    "Uzbekistan"
+  ],
+  [
+    "vanuatu",
+    "🇻🇺",
+    "Vanuatu"
+  ],
+  [
+    "vatican_city",
+    "🇻🇦",
+    "Vatican City"
+  ],
+  [
+    "venezuela",
+    "🇻🇪",
+    "Venezuela"
+  ],
+  [
+    "vietnam",
+    "🇻🇳",
+    "Vietnam"
+  ],
+  [
+    "wallis_futuna",
+    "🇼🇫",
+    "Wallis & Futuna"
+  ],
+  [
+    "western_sahara",
+    "🇪🇭",
+    "Western Sahara"
+  ],
+  [
+    "yemen",
+    "🇾🇪",
+    "Yemen"
+  ],
+  [
+    "zambia",
+    "🇿🇲",
+    "Zambia"
+  ],
+  [
+    "zimbabwe",
+    "🇿🇼",
+    "Zimbabwe"
+  ],
+  [
+    "basecamp",
+    "",
+    ""
+  ],
+  [
+    "basecampy",
+    "",
+    ""
+  ],
+  [
+    "bowtie",
+    "",
+    ""
+  ],
+  [
+    "feelsgood",
+    "",
+    ""
+  ],
+  [
+    "finnadie",
+    "",
+    ""
+  ],
+  [
+    "goberserk",
+    "",
+    ""
+  ],
+  [
+    "godmode",
+    "",
+    ""
+  ],
+  [
+    "hurtrealbad",
+    "",
+    ""
+  ],
+  [
+    "neckbeard",
+    "",
+    ""
+  ],
+  [
+    "octocat",
+    "",
+    ""
+  ],
+  [
+    "rage1",
+    "",
+    ""
+  ],
+  [
+    "rage2",
+    "",
+    ""
+  ],
+  [
+    "rage3",
+    "",
+    ""
+  ],
+  [
+    "rage4",
+    "",
+    ""
+  ],
+  [
+    "shipit",
+    "",
+    ""
+  ],
+  [
+    "squirrel",
+    "",
+    ""
+  ],
+  [
+    "suspect",
+    "",
+    ""
+  ],
+  [
+    "trollface",
+    "",
+    ""
+  ]
+]

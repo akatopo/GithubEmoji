@@ -1,0 +1,17 @@
+[
+    ["bookmark", "🔖", "version tag"],
+    ["books", "📚", "documentation"],
+    ["bug", "🐛", "bug"],
+    ["card_index", "📇", "metadata"],
+    ["construction", "🚧", "WIP"],
+    ["globe_with_meridians", "🌐", "internationalization"],
+    ["lipstick", "💄", "cosmetic"],
+    ["poop", "💩", "deprecation"],
+    ["racehorse", "🐎", "performance"],
+    ["package", "📦", "refactoring"],
+    ["rotating_light", "🚨", "tests"],
+    ["sparkles", "✨", "new feature"],
+    ["tada", "🎉", "initial commit"],
+    ["wrench", "🔧", "tooling"],
+    ["zap", "⚡", "general update"]
+]

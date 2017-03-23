@@ -29,6 +29,59 @@ You can check available github emoji at the [emoji cheat sheet](http://www.emoji
 
 **Note:** On linux you will need a font that includes emoji in order to see emoji characters in the auto-complete popup. Here's [one](https://github.com/MorbZ/OpenSansEmoji)
 
+### Completing with the *actual* emoji
+
+Sometimes, it's useful to complete with the actual emoji instead of the alias name. In HTML for example. So, a setting is taken into account by this package: `github_emoji_complete_with_emoji`
+
+If you set it to `true`, then it will complete with the emoji (and erase the previous `:` that you still *have* to type in to the completion to popup).
+
+Otherwise, you get the exact same behaviour.
+
+### Example
+
+So, it you want this to work when you're writing HTML
+
+1. press <kbd>ctrl+n</kbd>
+2. from the command palette, set the syntax to `html`: `sshtml`
+3. from the command palette again, choose `Preferences: Settings – Syntax Specific`
+4. The settings on the right will only be applied to *html*. So, just set `github_emoji_complete_with_emoji` to `true` in there :wink:
+
+### Tip
+
+> What if I want to complete with an emoji just this time?
+
+You can set a shortcut, or an item in the command palette to run the command `toggle_setting` to activate it, complete, and then deactivate it!
+
+```json
+[
+    {
+        "keys": ["!", "@"],
+        "command": "toggle_setting",
+        "args": {
+            "setting": "github_emoji_complete_with_emoji"
+        }
+    }
+]
+```
+
+*Note: this keybinding is a bit unusual: you just have to press `!`, it will insert this char, and then press `@`: it'll remove the previous `!` and run the command. The reason I've picked this combination is that you rarely type `!` and then `@`, so it shouldn't cause you trouble. But feel free to change it however you like!*
+
+Or, in `Default.sublime-commands` in the `User` folder (you might have to create this file):
+
+```json
+[
+    {
+        "caption": "GithubEmoji: Complete with Emoji",
+        "command": "toggle_setting",
+        "args": {
+            "setting": "github_emoji_complete_with_emoji"
+        }
+    }
+]
+```
+
+
+
 ## Installation
 
 ### Package Control (preferred)
