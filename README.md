@@ -4,7 +4,7 @@ A Sublime Text 3 plugin for inserting github emoji in markdown documents. Also s
 
 ## Usage
 
-<img src="screenshots/emoji-completions.gif" alt="emoji completion" width="523">
+<img src="screenshots/emoji-completions.gif" alt="emoji completion" width="493">
 
 When editing a markdown document type `:` and then press <kbd>TAB</kbd> to display the auto-complete popup for github emoji. You can type `@` instead of `:` for commit message emoji.
 
