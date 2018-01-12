@@ -11,7 +11,7 @@
         "match_all": true
     }, {
         "key": "selector",
-        "operand": "text.html.markdown, text.html.markdown.multimarkdown, text.html.markdown.gfm, text.html.markdown.academicmarkdown"
+        "operand": "text.html.markdown, text.html.markdown.multimarkdown, text.html.markdown.gfm, text.html.markdown.academicmarkdown, text.html.markdown.academicyaml"
     }]
 }, {
     "keys": ["tab"],
@@ -24,6 +24,6 @@
         "match_all": true
     }, {
         "key": "selector",
-        "operand": "text.html.markdown, text.html.markdown.multimarkdown, text.html.markdown.gfm, text.html.markdown.academicmarkdown"
+        "operand": "text.html.markdown, text.html.markdown.multimarkdown, text.html.markdown.gfm, text.html.markdown.academicmarkdown, text.html.markdown.academicyaml"
     }]
 }]
