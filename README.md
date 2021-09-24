@@ -1,6 +1,6 @@
-# Github :octocat: Emoji :panda_face: for Sublime Text 3
+# Github :octocat: Emoji :panda_face: for Sublime Text
 
-A Sublime Text 3 plugin for inserting github emoji in markdown documents. Also supports [commit message emoji](https://github.com/dannyfritz/commit-message-emoji)
+A Sublime Text plugin for inserting github emoji in markdown documents. Also supports [commit message emoji](https://github.com/dannyfritz/commit-message-emoji)
 
 ## Usage
 
@@ -21,7 +21,13 @@ Alternatively, for non-commit emoji, you can add this to your `auto_complete_tri
 ],
 ```
 
-This way when you type `:` in markdown documents you'll get the autocompletion popup.
+In Sublime Text __4__ you do the same for commit emojis:
+```js
+{ "characters": [":", "@"],
+  "selector": "text.html.markdown, text.git.commit"},
+```
+
+This way when you type `:` (or `@` in ST4) in markdown documents you'll get the autocompletion popup.
 
 You can customize the available emoji, scopes, and filenames by copying and editing the default settings (`Preferences > Package Settings > GithubEmoji > Settings – Default`) and saving them into your own user settings (`Preferences > Package Settings > GithubEmoji > Settings – User`)
 
