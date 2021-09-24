@@ -1548,7 +1548,8 @@
   ],
   "emojiScopes": [
     "text.html.markdown",
-    "text.git-commit"
+    "text.git-commit",
+    "text.git.commit"
   ],
   "emojiFileNames": [
     "COMMIT_EDITMSG"
