@@ -4,7 +4,7 @@ A Sublime Text plugin for inserting github emoji in markdown documents. Also sup
 
 ## Usage
 
-<img src="screenshots/emoji-completions.gif" alt="emoji completion" width="493">
+<img src="screenshots/emoji-completions.gif" alt="emoji completion" width="688">
 
 When editing a markdown document type `:` and then press <kbd>TAB</kbd> to display the auto-complete popup for github emoji. You can type `@` instead of `:` for commit message emoji.
 
@@ -51,29 +51,24 @@ Download or clone this repository to a directory `GithubEmoji` in the Sublime Te
 **Mac:**
 
 ```shell
-git clone https://github.com/akatopo/GithubEmoji.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/GithubEmoji
+git clone https://github.com/akatopo/GithubEmoji.git ~/Library/Application\ Support/Sublime\ Text/Packages/GithubEmoji
 ```
 
 **Windows:**
 
 ```shell
-git clone https://github.com/akatopo/GithubEmoji.git %APPDATA%\Sublime/ Text/ 3/\GithubEmoji
+git clone https://github.com/akatopo/GithubEmoji.git %APPDATA%\Sublime/ Text/\GithubEmoji
 ```
 
 **Linux:**
 
 ```shell
-git clone https://github.com/akatopo/GithubEmoji.git ~/.Sublime\ Text\ 3/Packages/GithubEmoji
+git clone https://github.com/akatopo/GithubEmoji.git ~/.Sublime\ Text/Packages/GithubEmoji
 ```
 
-## Known Issues
-
-* Emoji characters in the auto-complete popup appear broken for windows 7 and 8.
-* Emoji character colors in OS X (tested on El Capitan) look ...inverted?
-
-Please drop me a line for any other OS specific strangeness or workarounds.
-
 ## Credits
+
+Special thanks to @eugenesvk for adding sublime text 4 support.
 
 The list of github emoji ([emoji.json](https://github.com/github/gemoji/blob/3f6057146c9a12e154c7bf00be4b125a76f413e0/db/emoji.json)) is taken from [gemoji](https://github.com/github/gemoji).
 
